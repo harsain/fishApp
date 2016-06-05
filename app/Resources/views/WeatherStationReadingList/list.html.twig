@@ -1,0 +1,16 @@
+{%  extends '::base.html.twig' %}
+
+{% block body %}
+    <h1>Weather Station Readings:</h1>
+    <ul>
+        {% for file in fileList %}
+            <li>
+                {%  if file matches '{^[a-zA-Z0-9]+\\.xml}' %}
+                    XML: <a class="btn btn-primary" href="{{ path('_reading', {'stationId': file}) }}">{{ file }}</a>
+                {% else %}
+                    {{ file }}
+                {% endif %}
+            </li>
+        {% endfor %}
+    </ul>
+{% endblock %}

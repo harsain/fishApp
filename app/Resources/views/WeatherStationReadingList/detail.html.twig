@@ -1,0 +1,169 @@
+{% extends '::base.html.twig' %}
+
+{% block body %}
+    <h2>Weather {{ stationId }} Station Reading:</h2>
+
+    <ol class="breadcrumb">
+        <li>
+            <a href="{{ path('_listing') }}">Back</a>
+        </li>
+    </ol>
+
+    <form class="form-horizontal">
+
+        {% for key, value in reading.amoc %}
+            {% if value is not iterable %}
+                <div class="form-group">
+                    <label class="col-sm-2 control-label">{{ key }}: </label>
+                    <div class="col-sm-10">
+                        <p class="form-control-static">{{ value }}</p>
+                    </div>
+                </div>
+
+            {% else %}
+                <div class="container-fluid" style="border: solid 1px">
+                    <h4>{{ key }}</h4>
+                    {% for key,value in value %}
+
+                        <div class="form-group">
+                            <label class="col-sm-2 control-label">{{ key }}: </label>
+                            <div class="col-sm-10">
+                                <p class="form-control-static">{{ value }}</p>
+                            </div>
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endfor %}
+
+        {% if reading.forecast.area[0] is defined %}
+            {% for key, value in reading.forecast.area[0] %}
+                {% if value is not iterable %}
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">{{ key }}: </label>
+                        <div class="col-sm-10">
+                            <p class="form-control-static">{{ value }}</p>
+                        </div>
+                    </div>
+
+                {% else %}
+                    <div class="container-fluid" style="border: solid 1px">
+                        <h4>{{ key }}</h4>
+                        {% for key,value in value %}
+                            {% if value is not iterable %}
+                                <div class="form-group">
+                                    <label class="col-sm-2 control-label">{{ key }}: </label>
+                                    <div class="col-sm-10">
+                                        <p class="form-control-static">{{ value }}</p>
+                                    </div>
+                                </div>
+                            {% else %}
+                                <div class="container-fluid" style="border: solid 1px">
+                                    <h4>{{ key }}</h4>
+                                    {% for key, value in value %}
+
+                                        {% if value is not iterable %}
+                                            <div class="form-group">
+                                                <label class="col-sm-2 control-label">{{ key }}: </label>
+                                                <div class="col-sm-10">
+                                                    <p class="form-control-static">{{ value }}</p>
+                                                </div>
+                                            </div>
+
+                                        {% else %}
+                                            <div class="container-fluid" style="border: solid 1px">
+                                                <h4>{{ key }}</h4>
+                                                {% for key, value in value %}
+                                                    <div class="form-group">
+                                                        <label class="col-sm-2 control-label">{{ key }}: </label>
+                                                        <div class="col-sm-10">
+                                                            <p class="form-control-static">{{ value }}</p>
+                                                        </div>
+                                                    </div>
+                                                {% endfor %}
+                                            </div>
+                                        {% endif %}
+                                    {% endfor %}
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+
+        {% if reading.forecast.area[1] is defined %}
+            {% for key, value in reading.forecast.area[1] %}
+                {% if value is not iterable %}
+                    <div class="form-group">
+                        <label class="col-sm-2 control-label">{{ key }}: </label>
+                        <div class="col-sm-10">
+                            <p class="form-control-static">{{ value }}</p>
+                        </div>
+                    </div>
+
+                {% else %}
+                    <div class="container-fluid" style="border: solid 1px">
+                        <h4>{{ key }}</h4>
+                        {% for key,value in value %}
+                            {% if value is not iterable %}
+                                <div class="form-group">
+                                    <label class="col-sm-2 control-label">{{ key }}: </label>
+                                    <div class="col-sm-10">
+                                        <p class="form-control-static">{{ value }}</p>
+                                    </div>
+                                </div>
+                            {% else %}
+                                <div class="container-fluid" style="border: solid 1px">
+                                    <h4>{{ key }}</h4>
+                                    {% for key, value in value %}
+
+                                        {% if value is not iterable %}
+                                            <div class="form-group">
+                                                <label class="col-sm-2 control-label">{{ key }}: </label>
+                                                <div class="col-sm-10">
+                                                    <p class="form-control-static">{{ value }}</p>
+                                                </div>
+                                            </div>
+
+                                        {% else %}
+                                            <div class="container-fluid" style="border: solid 1px">
+                                                <h4>{{ key }}</h4>
+                                                {% for key, value in value %}
+
+                                                    {% if value is not iterable %}
+                                                        <div class="form-group">
+                                                            <label class="col-sm-2 control-label">{{ key }}: </label>
+                                                            <div class="col-sm-10">
+                                                                <p class="form-control-static">{{ value }}</p>
+                                                            </div>
+                                                        </div>
+
+                                                    {% else %}
+                                                        <div class="container-fluid" style="border: solid 1px">
+                                                            <h4>{{ key }}</h4>
+                                                            {% for key, value in value %}
+                                                                <div class="form-group">
+                                                                    <label class="col-sm-2 control-label">{{ key }}: </label>
+                                                                    <div class="col-sm-10">
+                                                                        <p class="form-control-static">{{ value }}</p>
+                                                                    </div>
+                                                                </div>
+                                                            {% endfor %}
+                                                        </div>
+                                                    {% endif %}
+
+                                                {% endfor %}
+                                            </div>
+                                        {% endif %}
+                                    {% endfor %}
+                                </div>
+                            {% endif %}
+                        {% endfor %}
+                    </div>
+                {% endif %}
+            {% endfor %}
+        {% endif %}
+
+    </form>
+{% endblock %}
