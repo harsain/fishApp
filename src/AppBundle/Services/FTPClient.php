@@ -13,7 +13,6 @@
      */
     class FTPClient
     {
-//        private $ftpServer = "ftp.bom.gov.au/anon/gen/fwo/";
         private $ftpServer = "ftp.bom.gov.au";
         private $connectionID;
 
