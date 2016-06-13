@@ -33,7 +33,7 @@ class WeatherController extends Controller
      * @Route("/weather/stations/readings", name="_listing")
      * @return string
      */
-    public function getWeatherReadingsList()
+    public function getWeatherReadingsListAction()
     {
         if ($this->ftpClient->connect() ){
             if ($this->ftpClient->changeDir('/anon/gen/fwo')) {
@@ -50,13 +50,54 @@ class WeatherController extends Controller
         }
 	}
 
+
+    /**
+     * @Route("/weather/stations/live", name="_stationslistinglive")
+     * @return \Symfony\Component\HttpFoundation\Response|static
+     */
+    public function getWeatherStationsLiveListAction()
+    {
+        if ($this->ftpClient->connect()) {
+            if ($this->ftpClient->changeDir('/anon/gen/fwo')) {
+                $stationsList = $this->ftpClient->getWeatherStationsList('.');
+
+                return JsonResponse::create($stationsList);
+//                return $this->render(
+//                    ':WeatherStationReadingList:weatherstationslist.html.twig',
+//                    ["stations" => $stationsList]
+//                );
+            } else {
+                return new Response(
+                    '<html><body><h2>Unable to change the directory</h2></body></html>'
+                );
+            }
+        }
+    }
+
+
+    /**
+     * @Route("/weather/stations", name="_stationslisting")
+     * @return \Symfony\Component\HttpFoundation\Response|static
+     */
+    public function getWeatherStationsListAction()
+    {
+        $idfile = $this->getParameter('kernel.root_dir') . '/../web/idfile.json';
+        $fileContents = file_get_contents($idfile);
+
+//        return JsonResponse::create(json_decode($fileContents, true));
+        return $this->render(
+            ':WeatherStationReadingList:weatherstationslist.html.twig',
+            ["stations" => json_decode($fileContents)]
+        );
+    }
+
     /**
      * @Route("/weather/stations/readings/{stationId}", name="_reading")
      * @param $stationId
      *
      * @return string
      */
-    public function getWeatherStationReading($stationId)
+    public function getWeatherStationReadingAction($stationId)
     {
         if ($this->ftpClient->connect() ) {
             if ($this->ftpClient->changeDir('/anon/gen/fwo')) {

@@ -1,0 +1,8241 @@
+[
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14015,
+    "stn_name": "DARWIN AIRPORT",
+    "description": "Darwin Airport",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-12.4239",
+      "lon": "130.8925"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14272,
+    "stn_name": "BATCHELOR AIRPORT",
+    "description": "Batchelor",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-13.0544",
+      "lon": "131.0252"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14031,
+    "stn_name": "CHARLES POINT",
+    "description": "Charles Point",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-12.3895",
+      "lon": "130.6306"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14198,
+    "stn_name": "JABIRU AIRPORT",
+    "description": "Jabiru",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-12.6592",
+      "lon": "132.8940"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14305,
+    "stn_name": "KATHERINE COUNTRY CLUB",
+    "description": "Katherine",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-14.4728",
+      "lon": "132.2612"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14274,
+    "stn_name": "MCCLUER ISLAND",
+    "description": "McCluer Island",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-11.0468",
+      "lon": "132.9791"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14948,
+    "stn_name": "PORT KEATS AIRPORT",
+    "description": "Wadeye (Port Keats)",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-14.2494",
+      "lon": "129.5282"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14932,
+    "stn_name": "TINDAL RAAF",
+    "description": "Tindal",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-14.5229",
+      "lon": "132.3826"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14153,
+    "stn_name": "BLACK POINT",
+    "description": "Black Point",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-11.1538",
+      "lon": "132.1430"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14954,
+    "stn_name": "BRADSHAW",
+    "description": "Bradshaw",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-14.9408",
+      "lon": "130.8091"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 200786,
+    "stn_name": "CAPE WESSEL",
+    "description": "Cape Wessel",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-11.0047",
+      "lon": "136.7586"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14508,
+    "stn_name": "GOVE AIRPORT",
+    "description": "Gove Airport",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-12.2741",
+      "lon": "136.8203"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14518,
+    "stn_name": "GROOTE EYLANDT AIRPORT",
+    "description": "Groote Eylandt Airport",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-13.9746",
+      "lon": "136.4630"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14405,
+    "stn_name": "MANINGRIDA AIRPORT",
+    "description": "Maningrida Airport",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-12.0569",
+      "lon": "134.2339"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14404,
+    "stn_name": "MILINGIMBI AIRPORT",
+    "description": "Milingimbi",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-12.0932",
+      "lon": "134.8919"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14517,
+    "stn_name": "NGAYAWILI",
+    "description": "Ngayawili (Elcho Island)",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-11.9971",
+      "lon": "135.5726"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14401,
+    "stn_name": "WARRUWI AIRPORT",
+    "description": "Warruwi",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-11.6500",
+      "lon": "133.3797"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14723,
+    "stn_name": "BORROLOOLA AIRPORT",
+    "description": "Borroloola",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-16.0755",
+      "lon": "136.3041"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14627,
+    "stn_name": "BULMAN",
+    "description": "Bulman",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-13.6715",
+      "lon": "134.3415"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14703,
+    "stn_name": "CENTRE ISLAND",
+    "description": "Centre Island",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-15.7426",
+      "lon": "136.8192"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14626,
+    "stn_name": "DALY WATERS AIRSTRIP",
+    "description": "Daly Waters",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-16.2637",
+      "lon": "133.3782"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14704,
+    "stn_name": "MCARTHUR RIVER MINE AIRPORT",
+    "description": "McArthur River Mine",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-16.4423",
+      "lon": "136.0760"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14253,
+    "stn_name": "CHANNEL POINT",
+    "description": "Channel Point",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-13.1672",
+      "lon": "130.1226"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14909,
+    "stn_name": "CENTRAL ARNHEM PLATEAU",
+    "description": "Central Arnhem Plateau",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-13.3275",
+      "lon": "133.0861"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14829,
+    "stn_name": "LAJAMANU AIRPORT",
+    "description": "Lajamanu",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-18.3324",
+      "lon": "130.6361"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14825,
+    "stn_name": "VICTORIA RIVER DOWNS",
+    "description": "Victoria River Downs",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-16.4030",
+      "lon": "131.0145"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14840,
+    "stn_name": "WAVE HILL",
+    "description": "Wave Hill (Kalkarindji)",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-17.3869",
+      "lon": "131.1166"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15085,
+    "stn_name": "BRUNETTE DOWNS",
+    "description": "Brunette Downs",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-18.6370",
+      "lon": "135.9450"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15131,
+    "stn_name": "ELLIOTT",
+    "description": "Elliott",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-17.5552",
+      "lon": "133.5439"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14277,
+    "stn_name": "DUM IN MIRRIE AIRSTRIP",
+    "description": "Dum In Mirrie",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-12.6350",
+      "lon": "130.3725"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15135,
+    "stn_name": "TENNANT CREEK AIRPORT",
+    "description": "Tennant Creek",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-19.6423",
+      "lon": "134.1833"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15590,
+    "stn_name": "ALICE SPRINGS AIRPORT",
+    "description": "Alice Springs Airport",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-23.7951",
+      "lon": "133.8890"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15594,
+    "stn_name": "ARLTUNGA",
+    "description": "Arltunga",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-23.4564",
+      "lon": "134.6849"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15511,
+    "stn_name": "CURTIN SPRINGS",
+    "description": "Curtin Springs",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-25.3139",
+      "lon": "131.7571"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15602,
+    "stn_name": "JERVOIS",
+    "description": "Jervois",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-22.9494",
+      "lon": "136.1442"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15664,
+    "stn_name": "WALUNGURRU AIRPORT",
+    "description": "Wulungurru (Kintore)",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-23.2656",
+      "lon": "129.3844"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15666,
+    "stn_name": "RABBIT FLAT",
+    "description": "Rabbit Flat",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-20.1823",
+      "lon": "130.0148"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15643,
+    "stn_name": "TERRITORY GRAPE FARM",
+    "description": "Territory Grape Farm",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-22.4518",
+      "lon": "133.6377"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15652,
+    "stn_name": "WATARRKA",
+    "description": "Watarrka",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-24.2918",
+      "lon": "131.5490"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15528,
+    "stn_name": "YUENDUMU",
+    "description": "Yuendumu",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-22.2565",
+      "lon": "131.8011"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 15635,
+    "stn_name": "YULARA AIRPORT",
+    "description": "Yulara",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-25.1896",
+      "lon": "130.9737"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14041,
+    "stn_name": "MIDDLE POINT",
+    "description": "Middle Point",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-12.6050",
+      "lon": "131.2988"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14949,
+    "stn_name": "DELAMERE WEAPONS RANGE",
+    "description": "Delamere",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-15.7441",
+      "lon": "131.9181"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14314,
+    "stn_name": "NOONAMAH AIRSTRIP",
+    "description": "Noonamah",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-12.6099",
+      "lon": "131.0474"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14901,
+    "stn_name": "DOUGLAS RIVER",
+    "description": "Douglas River",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-13.8345",
+      "lon": "131.1872"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14142,
+    "stn_name": "PIRLANGIMPI AIRPORT",
+    "description": "Pirlangimpi",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-11.4021",
+      "lon": "130.4217"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14072,
+    "stn_name": "DARWIN NTC AWS",
+    "description": "Darwin Harbour",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-12.4719",
+      "lon": "130.8458"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14023,
+    "stn_name": "GUNN POINT",
+    "description": "Gunn Point",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-12.2490",
+      "lon": "131.0449"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14308,
+    "stn_name": "CROKER ISLAND AIRPORT",
+    "description": "Croker Island Airport",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-11.1629",
+      "lon": "132.4813"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14309,
+    "stn_name": "MURGANELLA AIRSTRIP",
+    "description": "Murganella Airstrip",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-11.5485",
+      "lon": "132.9266"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14310,
+    "stn_name": "OENPELLI AIRPORT",
+    "description": "Oenpelli Airstrip",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-12.3272",
+      "lon": "133.0069"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 14299,
+    "stn_name": "NGUKURR AIRPORT",
+    "description": "Ngukurr AWS",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-14.7236",
+      "lon": "134.7456"
+    }
+  },
+  {
+    "identifier": "IDD60920",
+    "bom_id": 200212,
+    "stn_name": "NORTHERN ENDEAVOUR",
+    "description": "Northern Endeavour (near 10.5S 126E)",
+    "timezone": "Australia\/Darwin",
+    "location": {
+      "lat": "-10.6134",
+      "lon": "125.9843"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66062,
+    "stn_name": "SYDNEY (OBSERVATORY HILL)",
+    "description": "Sydney - Observatory Hill",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.8607",
+      "lon": "151.2050"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 70351,
+    "stn_name": "CANBERRA AIRPORT",
+    "description": "Canberra",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.3088",
+      "lon": "149.2004"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 69017,
+    "stn_name": "MONTAGUE ISLAND LIGHTHOUSE",
+    "description": "Montague Island",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.2519",
+      "lon": "150.2275"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 69137,
+    "stn_name": "GREEN CAPE AWS",
+    "description": "Green Cape",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-37.2622",
+      "lon": "150.0504"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 69138,
+    "stn_name": "ULLADULLA AWS",
+    "description": "Ulladulla",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.3635",
+      "lon": "150.4828"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 69018,
+    "stn_name": "MORUYA HEADS PILOT STATION",
+    "description": "Moruya Heads",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.9093",
+      "lon": "150.1532"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 68253,
+    "stn_name": "PORT KEMBLA NTC AWS",
+    "description": "Port Kembla Harbour",
+    "timezone": "UTC",
+    "location": {
+      "lat": "-34.4734",
+      "lon": "150.9118"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 68228,
+    "stn_name": "BELLAMBI AWS",
+    "description": "Bellambi",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.3691",
+      "lon": "150.9291"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 68242,
+    "stn_name": "KIAMA (BOMBO HEADLAND)",
+    "description": "Kiama",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.6532",
+      "lon": "150.8609"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 68151,
+    "stn_name": "POINT PERPENDICULAR AWS",
+    "description": "Point Perpendicular",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.0936",
+      "lon": "150.8049"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66051,
+    "stn_name": "LITTLE BAY (THE COAST GOLF CLUB)",
+    "description": "Little Bay",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.9829",
+      "lon": "151.2502"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61412,
+    "stn_name": "LAKE MACQUARIE AWS",
+    "description": "Lake Macquarie - Cooranbong",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.0887",
+      "lon": "151.4636"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61366,
+    "stn_name": "NORAH HEAD AWS",
+    "description": "Norah Head",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.2814",
+      "lon": "151.5766"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61054,
+    "stn_name": "NELSON BAY (NELSON HEAD)",
+    "description": "Nelson Bay",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.7103",
+      "lon": "152.1612"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 60013,
+    "stn_name": "FORSTER - TUNCURRY MARINE RESCUE",
+    "description": "Forster",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.1756",
+      "lon": "152.5089"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 58198,
+    "stn_name": "BALLINA AIRPORT AWS",
+    "description": "Ballina",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-28.8353",
+      "lon": "153.5585"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 58216,
+    "stn_name": "CAPE BYRON AWS",
+    "description": "Cape Byron",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-28.6399",
+      "lon": "153.6358"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 58012,
+    "stn_name": "YAMBA PILOT STATION",
+    "description": "Yamba",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.4335",
+      "lon": "153.3632"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 58212,
+    "stn_name": "EVANS HEAD RAAF BOMBING RANGE AWS",
+    "description": "Evans Head",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.1830",
+      "lon": "153.3964"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66043,
+    "stn_name": "KURNELL AWS",
+    "description": "Kurnell",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.0039",
+      "lon": "151.2111"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66196,
+    "stn_name": "WEDDING CAKE WEST",
+    "description": "Sydney Harbour",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.8405",
+      "lon": "151.2643"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66197,
+    "stn_name": "NORTH HEAD",
+    "description": "North Head",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.8152",
+      "lon": "151.2986"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 68239,
+    "stn_name": "MOSS VALE AWS",
+    "description": "Moss Vale",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.5253",
+      "lon": "150.4217"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66194,
+    "stn_name": "CANTERBURY RACECOURSE AWS",
+    "description": "Canterbury",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.9057",
+      "lon": "151.1134"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 71041,
+    "stn_name": "THREDBO VILLAGE",
+    "description": "Thredbo Village",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.5031",
+      "lon": "148.3038"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 71032,
+    "stn_name": "THREDBO AWS",
+    "description": "Thredbo Top Station",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.4917",
+      "lon": "148.2859"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 65070,
+    "stn_name": "DUBBO AIRPORT AWS",
+    "description": "Dubbo",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.2206",
+      "lon": "148.5753"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 56242,
+    "stn_name": "INVERELL (RAGLAN ST)",
+    "description": "Inverell",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.7796",
+      "lon": "151.1121"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 56018,
+    "stn_name": "INVERELL RESEARCH CENTRE",
+    "description": "Inverell RS",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.7752",
+      "lon": "151.0820"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 49000,
+    "stn_name": "IVANHOE AERODROME AWS",
+    "description": "Ivanhoe Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.8833",
+      "lon": "144.3092"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 63039,
+    "stn_name": "KATOOMBA (MURRI ST)",
+    "description": "Katoomba",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.7122",
+      "lon": "150.3087"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 63226,
+    "stn_name": "LITHGOW (COOERWULL)",
+    "description": "Lithgow",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.4769",
+      "lon": "150.1303"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 69147,
+    "stn_name": "MERIMBULA AIRPORT AWS",
+    "description": "Merimbula",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.9077",
+      "lon": "149.8989"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61055,
+    "stn_name": "NEWCASTLE NOBBYS SIGNAL STATION AWS",
+    "description": "Newcastle Nobbys",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.9184",
+      "lon": "151.7985"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 67113,
+    "stn_name": "PENRITH LAKES AWS",
+    "description": "Penrith",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.7195",
+      "lon": "150.6783"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 71075,
+    "stn_name": "PERISHER VALLEY AWS",
+    "description": "Perisher Valley",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.4069",
+      "lon": "148.4055"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 67105,
+    "stn_name": "RICHMOND RAAF",
+    "description": "Richmond",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.6004",
+      "lon": "150.7761"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66059,
+    "stn_name": "TERREY HILLS AWS",
+    "description": "Terrey Hills",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.6908",
+      "lon": "151.2253"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 70339,
+    "stn_name": "TUGGERANONG (ISABELLA PLAINS) AWS",
+    "description": "Tuggeranong",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.4184",
+      "lon": "149.0937"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 58077,
+    "stn_name": "GRAFTON RESEARCH STN",
+    "description": "Grafton AgRS",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.6224",
+      "lon": "152.9605"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 58161,
+    "stn_name": "GRAFTON AIRPORT AWS",
+    "description": "Grafton Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.7583",
+      "lon": "153.0297"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 58214,
+    "stn_name": "LISMORE AIRPORT AWS",
+    "description": "Lismore Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-28.8305",
+      "lon": "153.2601"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 40717,
+    "stn_name": "COOLANGATTA",
+    "description": "Coolangatta",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-28.1681",
+      "lon": "153.5053"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 58158,
+    "stn_name": "MURWILLUMBAH (BRAY PARK)",
+    "description": "Murwillumbah",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-28.3395",
+      "lon": "153.3809"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 58208,
+    "stn_name": "CASINO AIRPORT AWS",
+    "description": "Casino",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-28.8824",
+      "lon": "153.0618"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 59151,
+    "stn_name": "COFFS HARBOUR AIRPORT",
+    "description": "Coffs Harbour Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.3189",
+      "lon": "153.1162"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 59140,
+    "stn_name": "DORRIGO (OLD CORAMBA RD)",
+    "description": "Dorrigo",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.3444",
+      "lon": "152.7187"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 59007,
+    "stn_name": "KEMPSEY AIRPORT AWS",
+    "description": "Kempsey Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.0711",
+      "lon": "152.7717"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 60085,
+    "stn_name": "YARRAS (MOUNT SEAVIEW)",
+    "description": "Mount Seaview",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.3865",
+      "lon": "152.2482"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 60139,
+    "stn_name": "PORT MACQUARIE AIRPORT AWS",
+    "description": "Port Macquarie Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.4335",
+      "lon": "152.8655"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 59030,
+    "stn_name": "SMOKY CAPE LIGHTHOUSE",
+    "description": "Smoky Cape",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.9225",
+      "lon": "153.0871"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 60141,
+    "stn_name": "TAREE AIRPORT AWS",
+    "description": "Taree Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.8895",
+      "lon": "152.5120"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61425,
+    "stn_name": "GOSFORD AWS",
+    "description": "Gosford",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.4351",
+      "lon": "151.3614"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61375,
+    "stn_name": "MANGROVE MOUNTAIN AWS",
+    "description": "Mangrove Mountain",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.2894",
+      "lon": "151.2107"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61260,
+    "stn_name": "CESSNOCK AIRPORT AWS",
+    "description": "Cessnock Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.7886",
+      "lon": "151.3377"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61390,
+    "stn_name": "NEWCASTLE UNIVERSITY",
+    "description": "Newcastle University",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.8906",
+      "lon": "151.7068"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61288,
+    "stn_name": "LOSTOCK DAM",
+    "description": "Lostock",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.3322",
+      "lon": "151.4595"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61388,
+    "stn_name": "MAITLAND VISITORS CENTRE",
+    "description": "Maitland",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.7422",
+      "lon": "151.5668"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61287,
+    "stn_name": "MERRIWA (ROSCOMMON)",
+    "description": "Merriwa",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.1852",
+      "lon": "150.1737"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61078,
+    "stn_name": "WILLIAMTOWN RAAF",
+    "description": "Williamtown",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.7932",
+      "lon": "151.8359"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61363,
+    "stn_name": "SCONE AIRPORT AWS",
+    "description": "Scone Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.0335",
+      "lon": "150.8264"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61397,
+    "stn_name": "SINGLETON STP",
+    "description": "Singleton",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.5902",
+      "lon": "151.1743"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61250,
+    "stn_name": "TOCAL AWS",
+    "description": "Tocal",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.6296",
+      "lon": "151.5919"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 56037,
+    "stn_name": "ARMIDALE (TREE GROUP NURSERY)",
+    "description": "Armidale",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.5243",
+      "lon": "151.6716"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 56238,
+    "stn_name": "ARMIDALE AIRPORT AWS",
+    "description": "Armidale Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.5273",
+      "lon": "151.6158"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 56243,
+    "stn_name": "GLEN INNES AIRPORT AWS",
+    "description": "Glen Innes Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.6780",
+      "lon": "151.6940"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 56229,
+    "stn_name": "GUYRA HOSPITAL",
+    "description": "Guyra",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.2122",
+      "lon": "151.6794"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 57095,
+    "stn_name": "TABULAM (MUIRNE)",
+    "description": "Tabulam",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-28.7551",
+      "lon": "152.4507"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 56032,
+    "stn_name": "TENTERFIELD (FEDERATION PARK)",
+    "description": "Tenterfield",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.0479",
+      "lon": "152.0172"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66037,
+    "stn_name": "SYDNEY AIRPORT AMO",
+    "description": "Sydney Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.9465",
+      "lon": "151.1731"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66022,
+    "stn_name": "FORT DENISON",
+    "description": "Fort Denison",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.8551",
+      "lon": "151.2254"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66161,
+    "stn_name": "HOLSWORTHY AERODROME AWS",
+    "description": "Holsworthy",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.9925",
+      "lon": "150.9489"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 67119,
+    "stn_name": "HORSLEY PARK EQUESTRIAN CENTRE AWS",
+    "description": "Horsley Park",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.8510",
+      "lon": "150.8567"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66023,
+    "stn_name": "LUCAS HEIGHTS AWS",
+    "description": "Lucas Heights",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.0519",
+      "lon": "150.9825"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66124,
+    "stn_name": "PARRAMATTA NORTH (MASONS DRIVE)",
+    "description": "Parramatta",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.7917",
+      "lon": "151.0181"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 67019,
+    "stn_name": "PROSPECT RESERVOIR",
+    "description": "Prospect Dam",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.8193",
+      "lon": "150.9127"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66212,
+    "stn_name": "SYDNEY OLYMPIC PARK AWS (ARCHERY CENTRE)",
+    "description": "Sydney Olympic Park",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.8338",
+      "lon": "151.0718"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66208,
+    "stn_name": "WATTAMOLLA AWS",
+    "description": "Wattamolla",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.1407",
+      "lon": "151.1185"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 67108,
+    "stn_name": "BADGERYS CREEK AWS",
+    "description": "Badgerys Creek",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.8969",
+      "lon": "150.7281"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 66137,
+    "stn_name": "BANKSTOWN AIRPORT AWS",
+    "description": "Bankstown",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.9181",
+      "lon": "150.9864"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 68192,
+    "stn_name": "CAMDEN AIRPORT AWS",
+    "description": "Camden",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.0390",
+      "lon": "150.6890"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 68257,
+    "stn_name": "CAMPBELLTOWN (MOUNT ANNAN)",
+    "description": "Campbelltown",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.0615",
+      "lon": "150.7735"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 68072,
+    "stn_name": "NOWRA RAN AIR STATION AWS",
+    "description": "Nowra",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.9469",
+      "lon": "150.5353"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 68241,
+    "stn_name": "WOLLONGONG AIRPORT",
+    "description": "Albion Park",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.5638",
+      "lon": "150.7900"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 69022,
+    "stn_name": "NAROOMA (MARINE RESCUE)",
+    "description": "Narooma",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.2144",
+      "lon": "150.1358"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 69148,
+    "stn_name": "MORUYA AIRPORT AWS",
+    "description": "Moruya Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.9004",
+      "lon": "150.1437"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 69139,
+    "stn_name": "BEGA AWS",
+    "description": "Bega",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.6722",
+      "lon": "149.8191"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 65034,
+    "stn_name": "WELLINGTON (D&J RURAL)",
+    "description": "Wellington",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.5635",
+      "lon": "148.9503"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 63292,
+    "stn_name": "MOUNT BOYCE AWS",
+    "description": "Mount Boyce",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.6185",
+      "lon": "150.2741"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 63077,
+    "stn_name": "SPRINGWOOD (VALLEY HEIGHTS)",
+    "description": "Springwood",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.7065",
+      "lon": "150.5848"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 63005,
+    "stn_name": "BATHURST AGRICULTURAL STATION",
+    "description": "Bathurst",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.4289",
+      "lon": "149.5559"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 63291,
+    "stn_name": "BATHURST AIRPORT AWS",
+    "description": "Bathurst Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.4119",
+      "lon": "149.6540"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 62013,
+    "stn_name": "GULGONG POST OFFICE",
+    "description": "Gulgong",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.3634",
+      "lon": "149.5329"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 68262,
+    "stn_name": "HIGH RANGE AWS (WANGANDERRY)",
+    "description": "High Range (Wanganderry)",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.3335",
+      "lon": "150.2670"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 62101,
+    "stn_name": "MUDGEE AIRPORT AWS",
+    "description": "Mudgee",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.5628",
+      "lon": "149.6149"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 62100,
+    "stn_name": "NULLO MOUNTAIN AWS",
+    "description": "Nullo Mountain",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.7244",
+      "lon": "150.2290"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 63303,
+    "stn_name": "ORANGE AIRPORT AWS",
+    "description": "Orange Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.3768",
+      "lon": "149.1263"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 63063,
+    "stn_name": "OBERON (SPRINGBANK)",
+    "description": "Oberon",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.6682",
+      "lon": "149.8348"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 73007,
+    "stn_name": "BURRINJUCK DAM",
+    "description": "Burrinjuck Dam",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.9997",
+      "lon": "148.5984"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 70263,
+    "stn_name": "GOULBURN TAFE",
+    "description": "Goulburn",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.7495",
+      "lon": "149.7034"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 70080,
+    "stn_name": "TARALGA POST OFFICE",
+    "description": "Taralga",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.4048",
+      "lon": "149.8197"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 69132,
+    "stn_name": "BRAIDWOOD RACECOURSE AWS",
+    "description": "Braidwood",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.4253",
+      "lon": "149.7835"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 70330,
+    "stn_name": "GOULBURN AIRPORT AWS",
+    "description": "Goulburn Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.8085",
+      "lon": "149.7311"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 69128,
+    "stn_name": "NERRIGA AWS",
+    "description": "Nerriga",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.1103",
+      "lon": "150.0826"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 70005,
+    "stn_name": "BOMBALA (THERRY STREET)",
+    "description": "Bombala",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.9113",
+      "lon": "149.2379"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 70328,
+    "stn_name": "BOMBALA AWS",
+    "description": "Bombala AWS",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-37.0016",
+      "lon": "149.2336"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 70278,
+    "stn_name": "COOMA VISITORS CENTRE",
+    "description": "Cooma",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.2318",
+      "lon": "149.1243"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 72162,
+    "stn_name": "KHANCOBAN AWS",
+    "description": "Khancoban",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.2304",
+      "lon": "148.1405"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 72161,
+    "stn_name": "CABRAMURRA SMHEA AWS",
+    "description": "Cabramurra",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.9371",
+      "lon": "148.3779"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 70217,
+    "stn_name": "COOMA AIRPORT AWS",
+    "description": "Cooma Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.2939",
+      "lon": "148.9725"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 54003,
+    "stn_name": "BARRABA POST OFFICE",
+    "description": "Barraba",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.3781",
+      "lon": "150.6096"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 55202,
+    "stn_name": "GUNNEDAH AIRPORT AWS",
+    "description": "Gunnedah Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.9537",
+      "lon": "150.2494"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 53115,
+    "stn_name": "MOREE AERO",
+    "description": "Moree",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.4898",
+      "lon": "149.8471"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 52020,
+    "stn_name": "MUNGINDI POST OFFICE",
+    "description": "Mungindi",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-28.9786",
+      "lon": "148.9899"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 54038,
+    "stn_name": "NARRABRI AIRPORT AWS",
+    "description": "Narrabri",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.3154",
+      "lon": "149.8302"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 55049,
+    "stn_name": "QUIRINDI POST OFFICE",
+    "description": "Quirindi",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.5086",
+      "lon": "150.6793"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 55325,
+    "stn_name": "TAMWORTH AIRPORT AWS",
+    "description": "Tamworth Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.0742",
+      "lon": "150.8362"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 52088,
+    "stn_name": "WALGETT AIRPORT AWS",
+    "description": "Walgett",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.0372",
+      "lon": "148.1223"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 55136,
+    "stn_name": "WOOLBROOK (DANGLEMAH ROAD)",
+    "description": "Woolbrook",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.9672",
+      "lon": "151.3451"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 61392,
+    "stn_name": "MURRURUNDI GAP AWS",
+    "description": "Murrurundi Gap",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.7416",
+      "lon": "150.7937"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 50137,
+    "stn_name": "CONDOBOLIN AIRPORT AWS",
+    "description": "Condobolin Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.0682",
+      "lon": "147.2133"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 64017,
+    "stn_name": "COONABARABRAN AIRPORT AWS",
+    "description": "Coonabarabran Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.3330",
+      "lon": "149.2699"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 51161,
+    "stn_name": "COONAMBLE AIRPORT AWS",
+    "description": "Coonamble",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.9776",
+      "lon": "148.3798"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 65111,
+    "stn_name": "COWRA AIRPORT AWS",
+    "description": "Cowra",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.8382",
+      "lon": "148.6541"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 64009,
+    "stn_name": "DUNEDOO POST OFFICE",
+    "description": "Dunedoo",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.0165",
+      "lon": "149.3956"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 65103,
+    "stn_name": "FORBES AIRPORT AWS",
+    "description": "Forbes",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.3627",
+      "lon": "147.9205"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 73014,
+    "stn_name": "GRENFELL (MANGANESE RD)",
+    "description": "Grenfell",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.8934",
+      "lon": "148.1523"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 51039,
+    "stn_name": "NYNGAN AIRPORT",
+    "description": "Nyngan",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.5495",
+      "lon": "147.1961"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 65068,
+    "stn_name": "PARKES AIRPORT AWS",
+    "description": "Parkes Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.1281",
+      "lon": "148.2428"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 50031,
+    "stn_name": "PEAK HILL POST OFFICE",
+    "description": "Peak Hill",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.7235",
+      "lon": "148.1902"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 73151,
+    "stn_name": "TEMORA AIRPORT",
+    "description": "Temora",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.4277",
+      "lon": "147.5117"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 51049,
+    "stn_name": "TRANGIE RESEARCH STATION AWS",
+    "description": "Trangie",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.9861",
+      "lon": "147.9489"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 50017,
+    "stn_name": "WEST WYALONG AIRPORT AWS",
+    "description": "West Wyalong",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.9382",
+      "lon": "147.1962"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 73142,
+    "stn_name": "COOTAMUNDRA AIRPORT",
+    "description": "Cootamundra",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.6299",
+      "lon": "148.0364"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 73141,
+    "stn_name": "GUNDAGAI (NANGUS RD)",
+    "description": "Gundagai",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.0640",
+      "lon": "148.0986"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 72043,
+    "stn_name": "TUMBARUMBA POST OFFICE",
+    "description": "Tumbarumba",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.7780",
+      "lon": "148.0122"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 73138,
+    "stn_name": "YOUNG AIRPORT",
+    "description": "Young",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.2493",
+      "lon": "148.2475"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 72160,
+    "stn_name": "ALBURY AIRPORT AWS",
+    "description": "Albury",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.0690",
+      "lon": "146.9509"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 74034,
+    "stn_name": "COROWA AIRPORT",
+    "description": "Corowa",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.9887",
+      "lon": "146.3574"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 74258,
+    "stn_name": "DENILIQUIN AIRPORT AWS",
+    "description": "Deniliquin",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.5575",
+      "lon": "144.9458"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 75041,
+    "stn_name": "GRIFFITH AIRPORT AWS",
+    "description": "Griffith",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.2487",
+      "lon": "146.0695"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 75019,
+    "stn_name": "HAY AIRPORT AWS",
+    "description": "Hay Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.5412",
+      "lon": "144.8345"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 72023,
+    "stn_name": "HUME RESERVOIR",
+    "description": "Hume Reservoir",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-36.1039",
+      "lon": "147.0329"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 75032,
+    "stn_name": "HILLSTON AIRPORT",
+    "description": "Hillston",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.4915",
+      "lon": "145.5248"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 74148,
+    "stn_name": "NARRANDERA AIRPORT AWS",
+    "description": "Narrandera Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.7050",
+      "lon": "146.5140"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 74106,
+    "stn_name": "TOCUMWAL AIRPORT",
+    "description": "Tocumwal",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.8170",
+      "lon": "145.6004"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 72150,
+    "stn_name": "WAGGA WAGGA AMO",
+    "description": "Wagga Wagga",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.1583",
+      "lon": "147.4575"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 74037,
+    "stn_name": "YANCO AGRICULTURAL INSTITUTE",
+    "description": "Yanco",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.6222",
+      "lon": "146.4326"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 49002,
+    "stn_name": "BALRANALD (RSL)",
+    "description": "Balranald",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.6398",
+      "lon": "143.5610"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 47048,
+    "stn_name": "BROKEN HILL AIRPORT AWS",
+    "description": "Broken Hill Airport",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-32.0012",
+      "lon": "141.4694"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 47016,
+    "stn_name": "LAKE VICTORIA STORAGE",
+    "description": "Lake Victoria",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-34.0438",
+      "lon": "141.2676"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 47019,
+    "stn_name": "MENINDEE POST OFFICE",
+    "description": "Menindee",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-32.3937",
+      "lon": "142.4173"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 47029,
+    "stn_name": "POONCARIE MAIL AGENCY",
+    "description": "Pooncarie",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-33.3856",
+      "lon": "142.5696"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 48245,
+    "stn_name": "BOURKE AIRPORT AWS",
+    "description": "Bourke",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.0362",
+      "lon": "145.9521"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 48015,
+    "stn_name": "BREWARRINA HOSPITAL",
+    "description": "Brewarrina",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.9614",
+      "lon": "146.8651"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 48027,
+    "stn_name": "COBAR MO",
+    "description": "Cobar",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.4840",
+      "lon": "145.8294"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 48237,
+    "stn_name": "COBAR AIRPORT AWS",
+    "description": "Cobar Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.5388",
+      "lon": "145.7964"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 48031,
+    "stn_name": "COLLARENEBRI (ALBERT ST)",
+    "description": "Collarenebri",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.5407",
+      "lon": "148.5818"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 46128,
+    "stn_name": "FOWLERS GAP AWS",
+    "description": "Fowlers Gap",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.0863",
+      "lon": "141.7008"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 48243,
+    "stn_name": "LIGHTNING RIDGE VISITORS INFORMATION CENTRE",
+    "description": "Lightning Ridge",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.4310",
+      "lon": "147.9722"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 46126,
+    "stn_name": "TIBOOBURRA AIRPORT",
+    "description": "Tibooburra Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.4448",
+      "lon": "142.0567"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 48079,
+    "stn_name": "WANAARING POST OFFICE",
+    "description": "Wanaaring",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-29.7029",
+      "lon": "144.1484"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 46129,
+    "stn_name": "WHITE CLIFFS AWS",
+    "description": "White Cliffs AWS",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-30.8522",
+      "lon": "143.0743"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 46012,
+    "stn_name": "WILCANNIA AERODROME AWS",
+    "description": "Wilcannia Airport",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.5194",
+      "lon": "143.3850"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 70349,
+    "stn_name": "MOUNT GININI AWS",
+    "description": "Mount Ginini",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-35.5293",
+      "lon": "148.7721"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 200839,
+    "stn_name": "LORD HOWE ISLAND AERO",
+    "description": "Lord Howe Island",
+    "timezone": "Australia\/Lord_Howe",
+    "location": {
+      "lat": "-31.5421",
+      "lon": "159.0786"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 200715,
+    "stn_name": "LORD HOWE ISLAND WINDY POINT",
+    "description": "Lord Howe Island Windy Point",
+    "timezone": "Australia\/Sydney",
+    "location": {
+      "lat": "-31.5381",
+      "lon": "159.0733"
+    }
+  },
+  {
+    "identifier": "IDN60920",
+    "bom_id": 200288,
+    "stn_name": "NORFOLK ISLAND AERO",
+    "description": "Norfolk Island",
+    "timezone": "Pacific\/Norfolk",
+    "location": {
+      "lat": "-29.0389",
+      "lon": "167.9408"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40913,
+    "stn_name": "BRISBANE",
+    "description": "Brisbane",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.4808",
+      "lon": "153.0389"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40842,
+    "stn_name": "BRISBANE AERO",
+    "description": "Brisbane Airport",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.3917",
+      "lon": "153.1292"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40004,
+    "stn_name": "AMBERLEY AMO",
+    "description": "Amberley",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.6297",
+      "lon": "152.7111"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40211,
+    "stn_name": "ARCHERFIELD AIRPORT",
+    "description": "Archerfield",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.5717",
+      "lon": "153.0078"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40925,
+    "stn_name": "BANANA BANK NORTH BEACON",
+    "description": "Banana Bank",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.5327",
+      "lon": "153.3333"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40284,
+    "stn_name": "BEERBURRUM FOREST STATION",
+    "description": "Beerburrum",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-26.9586",
+      "lon": "152.9619"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40983,
+    "stn_name": "BEAUDESERT DRUMLEY STREET",
+    "description": "Beaudesert AWS",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.9707",
+      "lon": "152.9898"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40043,
+    "stn_name": "CAPE MORETON LIGHTHOUSE",
+    "description": "Cape Moreton",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.0314",
+      "lon": "153.4661"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40068,
+    "stn_name": "DOUBLE ISLAND POINT LIGHTHOUSE",
+    "description": "Double Island  Point",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-25.9319",
+      "lon": "153.1906"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40082,
+    "stn_name": "UNIVERSITY OF QUEENSLAND GATTON",
+    "description": "Gatton",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.5436",
+      "lon": "152.3375"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40764,
+    "stn_name": "GOLD COAST SEAWAY",
+    "description": "Gold Coast Seaway",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.9390",
+      "lon": "153.4283"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40093,
+    "stn_name": "GYMPIE",
+    "description": "Gympie",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-26.1831",
+      "lon": "152.6414"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40926,
+    "stn_name": "INNER RECIPROCAL MARKER",
+    "description": "Inner Beacon",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.2637",
+      "lon": "153.2417"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40651,
+    "stn_name": "JIMNA FORESTRY",
+    "description": "Jimna",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-26.6644",
+      "lon": "152.4606"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40922,
+    "stn_name": "KINGAROY AIRPORT",
+    "description": "Kingaroy",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-26.5737",
+      "lon": "151.8398"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40854,
+    "stn_name": "LOGAN CITY WATER TREATMENT PLANT",
+    "description": "Logan city",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.6839",
+      "lon": "153.1947"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40861,
+    "stn_name": "SUNSHINE COAST AIRPORT",
+    "description": "Maroochydore",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-26.6006",
+      "lon": "153.0903"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40988,
+    "stn_name": "NAMBOUR DAFF - HILLSIDE",
+    "description": "Nambour",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-26.6442",
+      "lon": "152.9383"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 41359,
+    "stn_name": "OAKEY AERO",
+    "description": "Oakey",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.4034",
+      "lon": "151.7413"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40209,
+    "stn_name": "POINT LOOKOUT",
+    "description": "Point Lookout",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.4361",
+      "lon": "153.5456"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40856,
+    "stn_name": "RAINBOW BEACH",
+    "description": "Rainbow Beach",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-25.9007",
+      "lon": "153.0891"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40958,
+    "stn_name": "REDCLIFFE",
+    "description": "Redcliffe",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.2169",
+      "lon": "153.0922"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 140007,
+    "stn_name": "REDLAND (ALEXANDRA HILLS)",
+    "description": "Redland (Alexandra Hills)",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.5433",
+      "lon": "153.2394"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40927,
+    "stn_name": "SPITFIRE CHANNEL BEACON",
+    "description": "Spitfire Channel",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.0481",
+      "lon": "153.2664"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40908,
+    "stn_name": "TEWANTIN RSL PARK",
+    "description": "Tewantin",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-26.3911",
+      "lon": "153.0403"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 41529,
+    "stn_name": "TOOWOOMBA AIRPORT",
+    "description": "Toowoomba",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.5425",
+      "lon": "151.9134"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 41525,
+    "stn_name": "WARWICK",
+    "description": "Warwick",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-28.2061",
+      "lon": "152.1003"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 541150,
+    "stn_name": "WELLCAMP AIRPORT",
+    "description": "Wellcamp Airport",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.5517",
+      "lon": "151.7845"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 27054,
+    "stn_name": "COCONUT ISLAND",
+    "description": "Coconut Island",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-10.0511",
+      "lon": "143.0686"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 27073,
+    "stn_name": "COEN AIRPORT",
+    "description": "Coen Airport",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-13.7606",
+      "lon": "143.1183"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 29038,
+    "stn_name": "KOWANYAMA AIRPORT",
+    "description": "Kowanyama",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-15.4818",
+      "lon": "141.7483"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 39128,
+    "stn_name": "BUNDABERG AERO",
+    "description": "Bundaberg",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.9069",
+      "lon": "152.3230"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 39066,
+    "stn_name": "GAYNDAH AIRPORT",
+    "description": "Gayndah",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-25.6167",
+      "lon": "151.6156"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40405,
+    "stn_name": "HERVEY BAY AIRPORT",
+    "description": "Hervey Bay",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-25.3220",
+      "lon": "152.8817"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 39059,
+    "stn_name": "LADY ELLIOT ISLAND",
+    "description": "Lady Elliot Island",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.1116",
+      "lon": "152.7161"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 40126,
+    "stn_name": "MARYBOROUGH",
+    "description": "Maryborough",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-25.5132",
+      "lon": "152.7152"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 39104,
+    "stn_name": "MONTO TOWNSHIP",
+    "description": "Monto Township",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.8642",
+      "lon": "151.1247"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 29182,
+    "stn_name": "MORNINGTON ISLAND AIRPORT",
+    "description": "Mornington Island Airport",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-16.6620",
+      "lon": "139.1655"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 39085,
+    "stn_name": "SANDY CAPE LIGHTHOUSE",
+    "description": "Sandy Cape",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.7297",
+      "lon": "153.2083"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 39314,
+    "stn_name": "SEVENTEEN SEVENTY",
+    "description": "Seventeen Seventy",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.1568",
+      "lon": "151.8889"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 29063,
+    "stn_name": "NORMANTON AIRPORT",
+    "description": "Normanton",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-17.6872",
+      "lon": "141.0733"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 29139,
+    "stn_name": "SWEERS ISLAND",
+    "description": "Sweers Island",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-17.1142",
+      "lon": "139.5981"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 29167,
+    "stn_name": "CENTURY MINE",
+    "description": "Century Mine",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-18.7569",
+      "lon": "138.7056"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 34084,
+    "stn_name": "CHARTERS TOWERS AIRPORT",
+    "description": "Charters Towers",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.0464",
+      "lon": "146.2708"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 30124,
+    "stn_name": "GEORGETOWN AIRPORT",
+    "description": "Georgetown Airport",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-18.3039",
+      "lon": "143.5306"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 30022,
+    "stn_name": "HUGHENDEN AIRPORT",
+    "description": "Hughenden",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.8192",
+      "lon": "144.2333"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 30161,
+    "stn_name": "RICHMOND AIRPORT",
+    "description": "Richmond",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.7017",
+      "lon": "143.1167"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 200879,
+    "stn_name": "ARLINGTON REEF",
+    "description": "Arlington Reef",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-16.7226",
+      "lon": "146.1124"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 27058,
+    "stn_name": "HORN ISLAND",
+    "description": "Horn Island",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-10.5844",
+      "lon": "142.2900"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 31011,
+    "stn_name": "CAIRNS AERO",
+    "description": "Cairns",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-16.8736",
+      "lon": "145.7458"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 31222,
+    "stn_name": "CAIRNS RACECOURSE",
+    "description": "Cairns Racecourse",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-16.9463",
+      "lon": "145.7474"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 31213,
+    "stn_name": "CAPE FLATTERY",
+    "description": "Cape Flattery",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-14.9672",
+      "lon": "145.3106"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 32004,
+    "stn_name": "CARDWELL MARINE PDE",
+    "description": "Cardwell",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-18.2544",
+      "lon": "146.0192"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 31209,
+    "stn_name": "COOKTOWN AIRPORT",
+    "description": "Cooktown",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-15.4461",
+      "lon": "145.1861"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 32025,
+    "stn_name": "INNISFAIL",
+    "description": "Innisfail",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-17.5249",
+      "lon": "146.0345"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 31037,
+    "stn_name": "LOW ISLES LIGHTHOUSE",
+    "description": "Low Isles",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-16.3842",
+      "lon": "145.5592"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 31210,
+    "stn_name": "MAREEBA AIRPORT",
+    "description": "Mareeba",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-17.0672",
+      "lon": "145.4283"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 32037,
+    "stn_name": "SOUTH JOHNSTONE EXP STN",
+    "description": "South Johnstone",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-17.6053",
+      "lon": "145.9972"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 28008,
+    "stn_name": "LOCKHART RIVER AIRPORT",
+    "description": "Lockhart River",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-12.7850",
+      "lon": "143.3047"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33295,
+    "stn_name": "ALVA BEACH",
+    "description": "Alva Beach",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-19.4569",
+      "lon": "147.4833"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33002,
+    "stn_name": "AYR DPI RESEARCH STN",
+    "description": "Ayr",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-19.6169",
+      "lon": "147.3758"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33327,
+    "stn_name": "BOWEN AIRPORT AWS",
+    "description": "Bowen Airport AWS",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.0154",
+      "lon": "148.2138"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 32078,
+    "stn_name": "INGHAM COMPOSITE",
+    "description": "Ingham",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-18.6494",
+      "lon": "146.1769"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 32182,
+    "stn_name": "CAPE FERGUSON NTC AWS",
+    "description": "Cape Ferguson",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-19.2774",
+      "lon": "147.0586"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 32040,
+    "stn_name": "TOWNSVILLE AERO",
+    "description": "Townsville",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-19.2483",
+      "lon": "146.7661"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33307,
+    "stn_name": "WOOLSHED",
+    "description": "Woolshed",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-19.4167",
+      "lon": "146.5364"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33013,
+    "stn_name": "COLLINSVILLE POST OFFICE",
+    "description": "Collinsville",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.5533",
+      "lon": "147.8464"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33106,
+    "stn_name": "HAMILTON ISLAND AIRPORT",
+    "description": "Hamilton Island",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.3658",
+      "lon": "148.9536"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33317,
+    "stn_name": "HAY POINT",
+    "description": "Hay Point",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-21.2894",
+      "lon": "149.3008"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33119,
+    "stn_name": "MACKAY M.O",
+    "description": "Mackay",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-21.1172",
+      "lon": "149.2169"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33045,
+    "stn_name": "MACKAY AERO",
+    "description": "Mackay Airport",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-21.1706",
+      "lon": "149.1794"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 200001,
+    "stn_name": "MIDDLE PERCY ISLAND",
+    "description": "Middle Percy Island",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-21.6628",
+      "lon": "150.2711"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33247,
+    "stn_name": "PROSERPINE AIRPORT",
+    "description": "Proserpine",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.4925",
+      "lon": "148.5550"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 39089,
+    "stn_name": "THANGOOL AIRPORT",
+    "description": "Biloela",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.4935",
+      "lon": "150.5709"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 39123,
+    "stn_name": "GLADSTONE RADAR",
+    "description": "Gladstone",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.8553",
+      "lon": "151.2628"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 39326,
+    "stn_name": "GLADSTONE AIRPORT",
+    "description": "Gladstone Airport",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.8697",
+      "lon": "151.2214"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 39122,
+    "stn_name": "HERON ISLAND RES STN",
+    "description": "Heron Island",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.4417",
+      "lon": "151.9125"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33208,
+    "stn_name": "ROSSLYN BAY NTC AWS",
+    "description": "Rosslyn Bay Harbour",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.1610",
+      "lon": "150.7901"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 39083,
+    "stn_name": "ROCKHAMPTON AERO",
+    "description": "Rockhampton",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.3753",
+      "lon": "150.4775"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 39322,
+    "stn_name": "RUNDLE ISLAND",
+    "description": "Rundle Island",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.5293",
+      "lon": "151.2763"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 28004,
+    "stn_name": "PALMERVILLE",
+    "description": "Palmerville",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-15.9999",
+      "lon": "144.0754"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33210,
+    "stn_name": "ST LAWRENCE",
+    "description": "St Lawrence",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-22.3472",
+      "lon": "149.5242"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33195,
+    "stn_name": "WILLIAMSON",
+    "description": "Williamson",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-22.4703",
+      "lon": "150.1786"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33308,
+    "stn_name": "SAMUEL HILL AERO",
+    "description": "Samuel Hill",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-22.7433",
+      "lon": "150.6578"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 33294,
+    "stn_name": "YEPPOON THE ESPLANADE",
+    "description": "Yeppoon",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.1364",
+      "lon": "150.7506"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 35134,
+    "stn_name": "BLACKWATER AIRPORT",
+    "description": "Blackwater Airport",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.6015",
+      "lon": "148.8074"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 35124,
+    "stn_name": "CLERMONT AIRPORT",
+    "description": "Clermont Airport",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-22.7756",
+      "lon": "147.6217"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 35264,
+    "stn_name": "EMERALD AIRPORT",
+    "description": "Emerald",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.5694",
+      "lon": "148.1756"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 35139,
+    "stn_name": "LOCHINGTON",
+    "description": "Lochington",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.9424",
+      "lon": "147.5250"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 34035,
+    "stn_name": "MORANBAH AIRPORT",
+    "description": "Moranbah Airport",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-22.0644",
+      "lon": "148.0758"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 35129,
+    "stn_name": "ROLLESTON AIRPORT",
+    "description": "Rolleston Airport",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.4617",
+      "lon": "148.6264"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 27075,
+    "stn_name": "SCHERGER RAAF",
+    "description": "Scherger",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-12.6167",
+      "lon": "142.0869"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 35065,
+    "stn_name": "SPRINGSURE COMET ST",
+    "description": "Springsure",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.1230",
+      "lon": "148.0856"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 35070,
+    "stn_name": "TAROOM POST OFFICE",
+    "description": "Taroom",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-25.6408",
+      "lon": "149.7958"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 36007,
+    "stn_name": "BARCALDINE POST OFFICE",
+    "description": "Barcaldine",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.5544",
+      "lon": "145.2883"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 36034,
+    "stn_name": "BLACKALL AIRPORT",
+    "description": "Blackall",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.4303",
+      "lon": "145.4306"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 36026,
+    "stn_name": "ISISFORD POST OFFICE",
+    "description": "Isisford",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.2591",
+      "lon": "144.4406"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 36031,
+    "stn_name": "LONGREACH AERO",
+    "description": "Longreach",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.4397",
+      "lon": "144.2828"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 35069,
+    "stn_name": "TAMBO POST OFFICE",
+    "description": "Tambo",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.8819",
+      "lon": "146.2564"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 37039,
+    "stn_name": "WINTON AIRPORT",
+    "description": "Winton",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-22.3617",
+      "lon": "143.0836"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 37010,
+    "stn_name": "CAMOOWEAL TOWNSHIP",
+    "description": "Camooweal",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-19.9225",
+      "lon": "138.1214"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 29141,
+    "stn_name": "CLONCURRY AIRPORT",
+    "description": "Cloncurry",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.6664",
+      "lon": "140.5050"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 27045,
+    "stn_name": "WEIPA AERO",
+    "description": "Weipa",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-12.6778",
+      "lon": "141.9208"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 29058,
+    "stn_name": "JULIA CREEK AIRPORT",
+    "description": "Julia Creek",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.6672",
+      "lon": "141.7214"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 29181,
+    "stn_name": "LAKE JULIUS AWS",
+    "description": "Lake Julius",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.1167",
+      "lon": "139.7256"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 29127,
+    "stn_name": "MOUNT ISA AERO",
+    "description": "Mount Isa",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.6778",
+      "lon": "139.4875"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 37053,
+    "stn_name": "CARTERS BORE",
+    "description": "Carters Bore",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.9358",
+      "lon": "139.2964"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 37059,
+    "stn_name": "NEW MAY DOWNS",
+    "description": "New May Downs",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.5900",
+      "lon": "139.3411"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 37034,
+    "stn_name": "THE MONUMENT AIRPORT",
+    "description": "The Monument",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-21.8125",
+      "lon": "139.9267"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 37036,
+    "stn_name": "TREPELL AIRPORT",
+    "description": "Trepell",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-21.8400",
+      "lon": "140.8925"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 45009,
+    "stn_name": "BALLERA GAS FIELD",
+    "description": "Ballera",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.4008",
+      "lon": "141.8114"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 38000,
+    "stn_name": "BEDOURIE POLICE STATION",
+    "description": "Bedourie",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.3597",
+      "lon": "139.4714"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 38003,
+    "stn_name": "BOULIA AIRPORT",
+    "description": "Boulia",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-22.9117",
+      "lon": "139.9039"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 38026,
+    "stn_name": "BIRDSVILLE AIRPORT",
+    "description": "Birdsville",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-25.8975",
+      "lon": "139.3472"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 29077,
+    "stn_name": "BURKETOWN AIRPORT",
+    "description": "Burketown Airport",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-17.7483",
+      "lon": "139.5356"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 45025,
+    "stn_name": "THARGOMINDAH AIRPORT",
+    "description": "Thargomindah",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.9867",
+      "lon": "143.8150"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 44010,
+    "stn_name": "BOLLON MARY ST",
+    "description": "Bollon",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-28.0331",
+      "lon": "147.4795"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 44021,
+    "stn_name": "CHARLEVILLE AERO",
+    "description": "Charleville",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-26.4139",
+      "lon": "146.2558"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 44026,
+    "stn_name": "CUNNAMULLA POST OFFICE",
+    "description": "Cunnamulla",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-28.0689",
+      "lon": "145.6822"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 43015,
+    "stn_name": "INJUNE POST OFFICE",
+    "description": "Injune",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-25.8428",
+      "lon": "148.5669"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 43020,
+    "stn_name": "MITCHELL POST OFFICE",
+    "description": "Mitchell",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-26.4888",
+      "lon": "147.9777"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 43091,
+    "stn_name": "ROMA AIRPORT",
+    "description": "Roma",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-26.5477",
+      "lon": "148.7710"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 43109,
+    "stn_name": "ST GEORGE AIRPORT",
+    "description": "St George",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-28.0489",
+      "lon": "148.5942"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 43035,
+    "stn_name": "SURAT",
+    "description": "Surat",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.1591",
+      "lon": "149.0702"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 41175,
+    "stn_name": "APPLETHORPE",
+    "description": "Applethorpe",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-28.6217",
+      "lon": "151.9533"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 41522,
+    "stn_name": "DALBY AIRPORT",
+    "description": "Dalby",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-27.1605",
+      "lon": "151.2634"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 42112,
+    "stn_name": "MILES CONSTANCE STREET",
+    "description": "Miles",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-26.6569",
+      "lon": "150.1819"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 41095,
+    "stn_name": "STANTHORPE LESLIE PARADE",
+    "description": "Stanthorpe",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-28.6617",
+      "lon": "151.9339"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 41100,
+    "stn_name": "TEXAS POST OFFICE",
+    "description": "Texas",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-28.8544",
+      "lon": "151.1681"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 200840,
+    "stn_name": "BOUGAINVILLE REEF",
+    "description": "Bougainville Reef",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-15.4877",
+      "lon": "147.1183"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 200601,
+    "stn_name": "CATO ISLAND",
+    "description": "Cato Island",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.2503",
+      "lon": "155.5420"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 200736,
+    "stn_name": "CREAL REEF",
+    "description": "Creal Reef",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.5303",
+      "lon": "150.3773"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 200783,
+    "stn_name": "FLINDERS REEF",
+    "description": "Flinders Reef",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-17.7195",
+      "lon": "148.4478"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 200701,
+    "stn_name": "FREDERICK REEF",
+    "description": "Frederick Reef",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-20.9375",
+      "lon": "154.4019"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 200831,
+    "stn_name": "GANNET CAY",
+    "description": "Gannett Cay",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-21.9769",
+      "lon": "152.4707"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 200732,
+    "stn_name": "HOLMES REEF",
+    "description": "Holmes Reef",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-16.4683",
+      "lon": "147.8734"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 200880,
+    "stn_name": "LIHOU REEF LIGHTHOUSE",
+    "description": "Lihou Reef Lighthouse",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-17.1330",
+      "lon": "152.1450"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 200704,
+    "stn_name": "MARION REEF",
+    "description": "Marion Reef",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-19.0964",
+      "lon": "152.3892"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 200283,
+    "stn_name": "WILLIS ISLAND",
+    "description": "Willis Island",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-16.2878",
+      "lon": "149.9652"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 250048,
+    "stn_name": "PORTABLE QFRB",
+    "description": "PORTABLE QFRB",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-23.1614",
+      "lon": "150.6817"
+    }
+  },
+  {
+    "identifier": "IDQ60920",
+    "bom_id": 250060,
+    "stn_name": "PORTABLE QFRF",
+    "description": "PORTABLE QFRF",
+    "timezone": "Australia\/Brisbane",
+    "location": {
+      "lat": "-24.4841",
+      "lon": "150.9341"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23090,
+    "stn_name": "KENT TOWN",
+    "description": "Adelaide",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.9211",
+      "lon": "138.6216"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18200,
+    "stn_name": "THEVENARD WIND",
+    "description": "Thevenard",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-32.1803",
+      "lon": "133.6343"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18069,
+    "stn_name": "ELLISTON",
+    "description": "Elliston",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.6501",
+      "lon": "134.8880"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18115,
+    "stn_name": "NEPTUNE ISLAND",
+    "description": "Neptune Island",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.3365",
+      "lon": "136.1174"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 22053,
+    "stn_name": "WARBURTO POINT",
+    "description": "Warburto Point",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.0041",
+      "lon": "137.5280"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 22803,
+    "stn_name": "CAPE WILLOUGHBY",
+    "description": "Cape Willoughby",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.8426",
+      "lon": "138.1327"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 26095,
+    "stn_name": "THE LIMESTONE",
+    "description": "Cape Jaffa",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-36.9655",
+      "lon": "139.7164"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23894,
+    "stn_name": "HINDMARSH ISLAND AWS",
+    "description": "Hindmarsh Island",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.5194",
+      "lon": "138.8177"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 21131,
+    "stn_name": "CLARE HIGH SCHOOL",
+    "description": "Clare",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.8226",
+      "lon": "138.5933"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18014,
+    "stn_name": "CLEVE",
+    "description": "Cleve",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.7011",
+      "lon": "136.4937"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18116,
+    "stn_name": "CLEVE AERODROME",
+    "description": "Cleve Airport",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.7081",
+      "lon": "136.5026"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 17110,
+    "stn_name": "LEIGH CREEK AIRPORT",
+    "description": "Leigh Creek",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-30.5963",
+      "lon": "138.4219"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 17123,
+    "stn_name": "MOOMBA AIRPORT",
+    "description": "Moomba Airport",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-28.0997",
+      "lon": "140.1956"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 16067,
+    "stn_name": "MOUNT IVE",
+    "description": "Mount Ive",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-32.4398",
+      "lon": "136.0671"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 26099,
+    "stn_name": "NARACOORTE AERODROME",
+    "description": "Naracoorte",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-36.9813",
+      "lon": "140.7270"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23373,
+    "stn_name": "NURIOOTPA PIRSA",
+    "description": "Nuriootpa",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.4761",
+      "lon": "139.0056"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18201,
+    "stn_name": "PORT AUGUSTA AERO",
+    "description": "Port Augusta",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-32.5073",
+      "lon": "137.7169"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 21139,
+    "stn_name": "PORT PIRIE AERODROME AWS",
+    "description": "Port Pirie Airport AWS",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.2371",
+      "lon": "137.9971"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23122,
+    "stn_name": "ROSEWORTHY AWS",
+    "description": "Roseworthy",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.5106",
+      "lon": "138.6763"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 22049,
+    "stn_name": "STENHOUSE BAY",
+    "description": "Stenhouse Bay",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.2795",
+      "lon": "136.9392"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 24580,
+    "stn_name": "STRATHALBYN RACECOURSE",
+    "description": "Strathalbyn",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.2836",
+      "lon": "138.8934"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 16098,
+    "stn_name": "TARCOOLA AERO",
+    "description": "Tarcoola",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-30.7051",
+      "lon": "134.5786"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 25006,
+    "stn_name": "KAROONDA",
+    "description": "Karoonda",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.0900",
+      "lon": "139.8972"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23034,
+    "stn_name": "ADELAIDE AIRPORT",
+    "description": "Adelaide Airport",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.9524",
+      "lon": "138.5196"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23013,
+    "stn_name": "PARAFIELD AIRPORT",
+    "description": "Parafield",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.7977",
+      "lon": "138.6281"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 22046,
+    "stn_name": "EDITHBURGH",
+    "description": "Edithburgh",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.1121",
+      "lon": "137.7395"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 22050,
+    "stn_name": "KADINA AWS",
+    "description": "Kadina",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.9703",
+      "lon": "137.6628"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 22008,
+    "stn_name": "MAITLAND",
+    "description": "Maitland",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.3745",
+      "lon": "137.6733"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 22031,
+    "stn_name": "MINLATON AERO",
+    "description": "Minlaton Airport",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.7480",
+      "lon": "137.5276"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 22018,
+    "stn_name": "WAROOKA",
+    "description": "Warooka",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.9906",
+      "lon": "137.3995"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 22841,
+    "stn_name": "KINGSCOTE AERO",
+    "description": "Kingscote",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.7114",
+      "lon": "137.5231"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 22843,
+    "stn_name": "PARNDANA CFS AWS",
+    "description": "Parndana",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.7916",
+      "lon": "137.2496"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 22823,
+    "stn_name": "CAPE BORDA",
+    "description": "Cape Borda",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.7549",
+      "lon": "136.5959"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 25507,
+    "stn_name": "KEITH",
+    "description": "Keith",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-36.0980",
+      "lon": "140.3556"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 25557,
+    "stn_name": "MUNKORA",
+    "description": "Keith West",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-36.1058",
+      "lon": "140.3273"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 24518,
+    "stn_name": "MENINGIE",
+    "description": "Meningie",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.6902",
+      "lon": "139.3375"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 26091,
+    "stn_name": "COONAWARRA",
+    "description": "Coonawarra",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-37.2906",
+      "lon": "140.8254"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 26026,
+    "stn_name": "ROBE",
+    "description": "Robe",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-37.1628",
+      "lon": "139.7560"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 26021,
+    "stn_name": "MOUNT GAMBIER AERO",
+    "description": "Mount Gambier",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-37.7473",
+      "lon": "140.7739"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 26105,
+    "stn_name": "ROBE AIRFIELD",
+    "description": "Robe Airport",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-37.1776",
+      "lon": "139.8054"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 26100,
+    "stn_name": "PADTHAWAY SOUTH",
+    "description": "Padthaway",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-36.6539",
+      "lon": "140.5212"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 24024,
+    "stn_name": "LOXTON RESEARCH CENTRE",
+    "description": "Loxton",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.4390",
+      "lon": "140.5978"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 24048,
+    "stn_name": "RENMARK AERO",
+    "description": "Renmark Airport",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.1983",
+      "lon": "140.6766"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 24584,
+    "stn_name": "PALLAMANA AERODROME",
+    "description": "Pallamana",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.0650",
+      "lon": "139.2273"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 25562,
+    "stn_name": "AUSTIN PLAINS",
+    "description": "Lameroo AWS",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.3778",
+      "lon": "140.5378"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 24521,
+    "stn_name": "MURRAY BRIDGE COMPARISON",
+    "description": "Murray Bridge",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.1234",
+      "lon": "139.2592"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 24511,
+    "stn_name": "EUDUNDA",
+    "description": "Eudunda",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.1754",
+      "lon": "139.0847"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 21133,
+    "stn_name": "RAYVILLE PARK",
+    "description": "Snowtown",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.7676",
+      "lon": "138.2182"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 19062,
+    "stn_name": "YONGALA",
+    "description": "Yongala",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.0276",
+      "lon": "138.7560"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 19017,
+    "stn_name": "HAWKER",
+    "description": "Hawker",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-31.8846",
+      "lon": "138.4350"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18012,
+    "stn_name": "CEDUNA AMO",
+    "description": "Ceduna",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-32.1297",
+      "lon": "133.6976"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18044,
+    "stn_name": "KYANCUTTA",
+    "description": "Kyancutta",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.1337",
+      "lon": "135.5521"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18195,
+    "stn_name": "MINNIPA PIRSA",
+    "description": "Minnipa RS",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-32.8427",
+      "lon": "135.1515"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18106,
+    "stn_name": "NULLARBOR",
+    "description": "Nullarbor",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-31.4492",
+      "lon": "130.8976"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18079,
+    "stn_name": "STREAKY BAY",
+    "description": "Streaky Bay",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-32.7963",
+      "lon": "134.2116"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18083,
+    "stn_name": "WUDINNA AERO",
+    "description": "Wudinna Airport",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.0430",
+      "lon": "135.4519"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18040,
+    "stn_name": "KIMBA",
+    "description": "Kimba",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.1416",
+      "lon": "136.4126"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18120,
+    "stn_name": "WHYALLA AERO",
+    "description": "Whyalla",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.0539",
+      "lon": "137.5206"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18191,
+    "stn_name": "COLES POINT",
+    "description": "Coles Point",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.3749",
+      "lon": "135.3741"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18217,
+    "stn_name": "CUMMINS AERO",
+    "description": "Cummins Airport",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.2524",
+      "lon": "135.7135"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 18192,
+    "stn_name": "PORT LINCOLN AWS",
+    "description": "Port Lincoln Airport",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.5993",
+      "lon": "135.8784"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 16065,
+    "stn_name": "ANDAMOOKA",
+    "description": "Andamooka",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-30.4490",
+      "lon": "137.1692"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 16090,
+    "stn_name": "COOBER PEDY AIRPORT",
+    "description": "Coober Pedy Airport",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-29.0347",
+      "lon": "134.7222"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 16097,
+    "stn_name": "PUKATJA",
+    "description": "Ernaballa",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-26.2635",
+      "lon": "132.1771"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 16096,
+    "stn_name": "OLYMPIC DAM AERODROME",
+    "description": "Roxby Downs",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-30.4829",
+      "lon": "136.8772"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 16001,
+    "stn_name": "WOOMERA AERODROME",
+    "description": "Woomera",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-31.1558",
+      "lon": "136.8054"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 17099,
+    "stn_name": "ARKAROOLA",
+    "description": "Arkaroola",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-30.3110",
+      "lon": "139.3357"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 20028,
+    "stn_name": "GLUEPOT",
+    "description": "Gluepot",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-33.7622",
+      "lon": "140.1251"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 17126,
+    "stn_name": "MARREE AERO",
+    "description": "Marree Airport",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-29.6587",
+      "lon": "138.0684"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 17043,
+    "stn_name": "OODNADATTA AIRPORT",
+    "description": "Oodnadatta",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-27.5553",
+      "lon": "135.4456"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 20062,
+    "stn_name": "YUNTA AIRSTRIP",
+    "description": "Yunta",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-32.5707",
+      "lon": "139.5645"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23052,
+    "stn_name": "BLACK POLE",
+    "description": "Outer Harbor (Black Pole)",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.7343",
+      "lon": "138.4653"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23875,
+    "stn_name": "SECOND VALLEY FOREST AWS",
+    "description": "Parawa West",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.5695",
+      "lon": "138.2864"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23886,
+    "stn_name": "MOUNT TERRIBLE RADAR",
+    "description": "Sellicks Hill",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.3294",
+      "lon": "138.5019"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23343,
+    "stn_name": "TURRETFIELD RESEARCH CENTRE",
+    "description": "Turretfield",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.5519",
+      "lon": "138.8342"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23804,
+    "stn_name": "ENCOUNTER BAY",
+    "description": "Victor Harbor",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.5544",
+      "lon": "138.5997"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23083,
+    "stn_name": "EDINBURGH RAAF",
+    "description": "Edinburgh",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.7111",
+      "lon": "138.6222"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23887,
+    "stn_name": "KUITPO FOREST RESERVE",
+    "description": "Kuitpo",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.1712",
+      "lon": "138.6783"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23733,
+    "stn_name": "MOUNT BARKER",
+    "description": "Mount Barker",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.0730",
+      "lon": "138.8465"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23878,
+    "stn_name": "MOUNT CRAWFORD AWS",
+    "description": "Mount Crawford",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.7253",
+      "lon": "138.9278"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23842,
+    "stn_name": "MOUNT LOFTY",
+    "description": "Mount Lofty",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-34.9784",
+      "lon": "138.7088"
+    }
+  },
+  {
+    "identifier": "IDS60920",
+    "bom_id": 23885,
+    "stn_name": "NOARLUNGA",
+    "description": "Noarlunga",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-35.1586",
+      "lon": "138.5057"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94029,
+    "stn_name": "HOBART (ELLERSLIE ROAD)",
+    "description": "Hobart",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.8897",
+      "lon": "147.3278"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91292,
+    "stn_name": "SMITHTON AERODROME",
+    "description": "Smithton",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-40.8347",
+      "lon": "145.0847"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 92114,
+    "stn_name": "FRIENDLY BEACHES",
+    "description": "Friendly Beaches",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.9953",
+      "lon": "148.2794"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 92124,
+    "stn_name": "MARIA ISLAND (POINT LESUEUR)",
+    "description": "Maria Island",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.6621",
+      "lon": "148.0179"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94155,
+    "stn_name": "TASMAN ISLAND",
+    "description": "Tasman Island",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-43.2397",
+      "lon": "148.0025"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 92133,
+    "stn_name": "SPRING BAY NTC AWS",
+    "description": "Spring Bay",
+    "timezone": "UTC",
+    "location": {
+      "lat": "-42.5464",
+      "lon": "147.9308"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 92148,
+    "stn_name": "SWANSEA (FRANCIS STREET)",
+    "description": "Swansea",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.1381",
+      "lon": "148.0736"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94010,
+    "stn_name": "CAPE BRUNY LIGHTHOUSE",
+    "description": "Cape Bruny",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-43.4892",
+      "lon": "147.1453"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94198,
+    "stn_name": "CAPE BRUNY (CAPE BRUNY)",
+    "description": "Cape Bruny AWS",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-43.4886",
+      "lon": "147.1444"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 97080,
+    "stn_name": "LOW ROCKY POINT",
+    "description": "Low Rocky Point",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.9831",
+      "lon": "145.5025"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94041,
+    "stn_name": "MAATSUYKER ISLAND LIGHTHOUSE",
+    "description": "Maatsuyker Island",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-43.6578",
+      "lon": "146.2711"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 97000,
+    "stn_name": "CAPE SORELL",
+    "description": "Cape Sorell",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.1986",
+      "lon": "145.1700"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 97072,
+    "stn_name": "STRAHAN AERODROME",
+    "description": "Strahan",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.1550",
+      "lon": "145.2908"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 92123,
+    "stn_name": "SWAN ISLAND",
+    "description": "Swan Island",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-40.7292",
+      "lon": "148.1250"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94008,
+    "stn_name": "HOBART AIRPORT",
+    "description": "Hobart Airport",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.8339",
+      "lon": "147.5033"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91284,
+    "stn_name": "BRIDPORT (SEA VIEW VILLAS)",
+    "description": "Bridport",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.0025",
+      "lon": "147.3869"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94212,
+    "stn_name": "CAMPANIA (KINCORA)",
+    "description": "Campania",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.6867",
+      "lon": "147.4258"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94020,
+    "stn_name": "DOVER",
+    "description": "Dover",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-43.3330",
+      "lon": "146.9980"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 99005,
+    "stn_name": "FLINDERS ISLAND AIRPORT",
+    "description": "Flinders Island Airport",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-40.0911",
+      "lon": "148.0024"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 96033,
+    "stn_name": "LIAWENEE",
+    "description": "Liawenee",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.8997",
+      "lon": "146.6694"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91223,
+    "stn_name": "MARRAWAH",
+    "description": "Marrawah",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-40.9089",
+      "lon": "144.7094"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94087,
+    "stn_name": "KUNANYI (MOUNT WELLINGTON PINNACLE)",
+    "description": "kunanyi \/ Mount Wellington",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.8950",
+      "lon": "147.2358"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 95048,
+    "stn_name": "OUSE FIRE STATION",
+    "description": "Ouse",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.4842",
+      "lon": "146.7106"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 93053,
+    "stn_name": "ROSS (THE BOULEVARDS)",
+    "description": "Ross",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.0250",
+      "lon": "147.4953"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91293,
+    "stn_name": "LOW HEAD",
+    "description": "Low Head",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.0547",
+      "lon": "146.7874"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 92045,
+    "stn_name": "LARAPUNA (EDDYSTONE POINT)",
+    "description": "Larapuna (Eddystone Point)",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-40.9928",
+      "lon": "148.3467"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91219,
+    "stn_name": "SCOTTSDALE (WEST MINSTONE ROAD)",
+    "description": "Scottsdale",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.1708",
+      "lon": "147.4883"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 92027,
+    "stn_name": "ORFORD (AUBIN COURT)",
+    "description": "Orford",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.5519",
+      "lon": "147.8753"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 92003,
+    "stn_name": "BICHENO (COUNCIL DEPOT)",
+    "description": "Bicheno",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.8739",
+      "lon": "148.3036"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 92012,
+    "stn_name": "FINGAL (LEGGE STREET)",
+    "description": "Fingal",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.6428",
+      "lon": "147.9664"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 92120,
+    "stn_name": "ST HELENS AERODROME",
+    "description": "St Helens",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.3381",
+      "lon": "148.2792"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91237,
+    "stn_name": "LAUNCESTON (TI TREE BEND)",
+    "description": "Launceston",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.4194",
+      "lon": "147.1219"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91311,
+    "stn_name": "LAUNCESTON AIRPORT",
+    "description": "Launceston Airport",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.5492",
+      "lon": "147.2144"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91306,
+    "stn_name": "CRESSY RESEARCH STATION",
+    "description": "Cressy",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.7256",
+      "lon": "147.0794"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94201,
+    "stn_name": "MELTON MOWBRAY (NORTH STOCKMAN)",
+    "description": "Melton Mowbray",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.4928",
+      "lon": "147.1981"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94195,
+    "stn_name": "TUNNACK FIRE STATION",
+    "description": "Tunnack",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.4543",
+      "lon": "147.4612"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94220,
+    "stn_name": "GROVE (RESEARCH STATION)",
+    "description": "Grove",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.9858",
+      "lon": "147.0742"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94191,
+    "stn_name": "HARTZ MOUNTAIN (KEOGHS PIMPLE)",
+    "description": "Hartz Mountains",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-43.2006",
+      "lon": "146.7683"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94254,
+    "stn_name": "DUNALLEY (STROUD POINT)",
+    "description": "Dunalley",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.9017",
+      "lon": "147.7894"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 94255,
+    "stn_name": "DENNES POINT",
+    "description": "Dennes Point",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-43.0639",
+      "lon": "147.3567"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 95003,
+    "stn_name": "BUSHY PARK (BUSHY PARK ESTATES)",
+    "description": "Bushy Park",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.7097",
+      "lon": "146.8983"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 96003,
+    "stn_name": "BUTLERS GORGE",
+    "description": "Butlers Gorge",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.2753",
+      "lon": "146.2758"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 96071,
+    "stn_name": "LAKE ST CLAIR NATIONAL PARK",
+    "description": "Lake St Clair",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.1178",
+      "lon": "146.1772"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 95063,
+    "stn_name": "MAYDENA POST OFFICE",
+    "description": "Maydena",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-42.7567",
+      "lon": "146.6239"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 97085,
+    "stn_name": "MOUNT READ",
+    "description": "Mount Read",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.8444",
+      "lon": "145.5417"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 97083,
+    "stn_name": "SCOTTS PEAK DAM",
+    "description": "Scotts Peak",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-43.0425",
+      "lon": "146.2722"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 97024,
+    "stn_name": "WARRA",
+    "description": "Warra",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-43.0609",
+      "lon": "146.7040"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91331,
+    "stn_name": "CAPE GRIM",
+    "description": "Cape Grim",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-40.6764",
+      "lon": "144.6922"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91107,
+    "stn_name": "WYNYARD AIRPORT",
+    "description": "Wynyard",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-40.9964",
+      "lon": "145.7311"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91009,
+    "stn_name": "BURNIE (ROUND HILL)",
+    "description": "Burnie",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.0661",
+      "lon": "145.9431"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91344,
+    "stn_name": "BURNIE NTC AWS",
+    "description": "Burnie Port",
+    "timezone": "UTC",
+    "location": {
+      "lat": "-41.0500",
+      "lon": "145.9149"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91259,
+    "stn_name": "LUNCHEON HILL (FORESTRY)",
+    "description": "Luncheon Hill",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.1492",
+      "lon": "145.1517"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91126,
+    "stn_name": "DEVONPORT AIRPORT",
+    "description": "Devonport Airport",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.1701",
+      "lon": "146.4289"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 91291,
+    "stn_name": "SHEFFIELD SCHOOL FARM",
+    "description": "Sheffield",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-41.3886",
+      "lon": "146.3219"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 98017,
+    "stn_name": "KING ISLAND AIRPORT",
+    "description": "King Island Airport",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-39.8801",
+      "lon": "143.8829"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 300017,
+    "stn_name": "CASEY",
+    "description": "Casey",
+    "timezone": "Australia\/Casey",
+    "location": {
+      "lat": "-66.2825",
+      "lon": "110.5231"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 300046,
+    "stn_name": "CAPE POINSETT",
+    "description": "Casey (Cape Poinsett)",
+    "timezone": "UTC",
+    "location": {
+      "lat": "-65.8449",
+      "lon": "113.0667"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 989512,
+    "stn_name": "NOVOLAZAREVSKAJA",
+    "description": "Novolazarevskaja",
+    "timezone": "UTC",
+    "location": {
+      "lat": "-70.7667",
+      "lon": "11.8333"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 989532,
+    "stn_name": "SYOWA",
+    "description": "Syowa",
+    "timezone": "UTC",
+    "location": {
+      "lat": "-69.0000",
+      "lon": "39.5833"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 300004,
+    "stn_name": "MACQUARIE ISLAND",
+    "description": "Macquarie Island",
+    "timezone": "Australia\/Hobart",
+    "location": {
+      "lat": "-54.4994",
+      "lon": "158.9369"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 300012,
+    "stn_name": "HAUPT NUNATAK",
+    "description": "Casey (Haupt Nunatak)",
+    "timezone": "Australia\/Casey",
+    "location": {
+      "lat": "-66.5819",
+      "lon": "110.6939"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 300000,
+    "stn_name": "DAVIS",
+    "description": "Davis",
+    "timezone": "Australia\/Davis",
+    "location": {
+      "lat": "-68.5744",
+      "lon": "77.9672"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 989642,
+    "stn_name": "DUMONT D URVILLE",
+    "description": "Dumont D'urville",
+    "timezone": "UTC",
+    "location": {
+      "lat": "-66.6631",
+      "lon": "140.0081"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 300039,
+    "stn_name": "G3",
+    "description": "Davis (Amery)",
+    "timezone": "UTC",
+    "location": {
+      "lat": "-70.8919",
+      "lon": "69.8725"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 300001,
+    "stn_name": "MAWSON",
+    "description": "Mawson",
+    "timezone": "Australia\/Mawson",
+    "location": {
+      "lat": "-67.6017",
+      "lon": "62.8753"
+    }
+  },
+  {
+    "identifier": "IDT60920",
+    "bom_id": 989592,
+    "stn_name": "MIRNYJ",
+    "description": "Mirnyj",
+    "timezone": "UTC",
+    "location": {
+      "lat": "-66.5500",
+      "lon": "93.0167"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86338,
+    "stn_name": "MELBOURNE (OLYMPIC PARK)",
+    "description": "Melbourne (Olympic Park)",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.8255",
+      "lon": "144.9816"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86282,
+    "stn_name": "MELBOURNE AIRPORT",
+    "description": "Melbourne Airport",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.6655",
+      "lon": "144.8321"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 87113,
+    "stn_name": "AVALON AIRPORT",
+    "description": "Avalon",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.0287",
+      "lon": "144.4783"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86351,
+    "stn_name": "LATROBE UNIVERSITY",
+    "description": "Bundoora",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.7163",
+      "lon": "145.0453"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86361,
+    "stn_name": "CERBERUS",
+    "description": "Cerberus",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.3646",
+      "lon": "145.1785"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86383,
+    "stn_name": "COLDSTREAM",
+    "description": "Coldstream",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.7239",
+      "lon": "145.4092"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86375,
+    "stn_name": "CRANBOURNE BOTANIC GARDENS",
+    "description": "Cranbourne",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.1348",
+      "lon": "145.2637"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86038,
+    "stn_name": "ESSENDON AIRPORT",
+    "description": "Essendon Airport",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.7276",
+      "lon": "144.9066"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86376,
+    "stn_name": "FAWKNER BEACON",
+    "description": "Fawkner Beacon",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.9089",
+      "lon": "144.9281"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86266,
+    "stn_name": "FERNY CREEK",
+    "description": "Ferny Creek",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.8748",
+      "lon": "145.3496"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86371,
+    "stn_name": "FRANKSTON AWS",
+    "description": "Frankston",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.1481",
+      "lon": "145.1156"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 87184,
+    "stn_name": "GEELONG RACECOURSE",
+    "description": "Geelong Racecourse",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.1737",
+      "lon": "144.3765"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 87031,
+    "stn_name": "LAVERTON RAAF",
+    "description": "Laverton",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.8565",
+      "lon": "144.7566"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86077,
+    "stn_name": "MOORABBIN AIRPORT",
+    "description": "Moorabbin Airport",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.9800",
+      "lon": "145.0962"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86354,
+    "stn_name": "PHILLIP ISLAND PENGUIN RESERVE",
+    "description": "Phillip Island",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.5058",
+      "lon": "145.1503"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 87166,
+    "stn_name": "POINT WILSON",
+    "description": "Point Wilson",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.0958",
+      "lon": "144.5361"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86373,
+    "stn_name": "RHYLL",
+    "description": "Rhyll",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.4612",
+      "lon": "145.3101"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86104,
+    "stn_name": "SCORESBY RESEARCH INSTITUTE",
+    "description": "Scoresby",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.8710",
+      "lon": "145.2561"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 87168,
+    "stn_name": "SHEOAKS",
+    "description": "Sheoaks",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.9075",
+      "lon": "144.1303"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86344,
+    "stn_name": "SOUTH CHANNEL ISLAND",
+    "description": "South Channel Island",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.3065",
+      "lon": "144.8016"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86220,
+    "stn_name": "ST KILDA HARBOUR - RMYS",
+    "description": "St Kilda Harbour RMYS",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.8642",
+      "lon": "144.9639"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86068,
+    "stn_name": "VIEWBANK",
+    "description": "Viewbank",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.7408",
+      "lon": "145.0972"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 90184,
+    "stn_name": "CAPE NELSON LIGHTHOUSE",
+    "description": "Cape Nelson",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.4306",
+      "lon": "141.5437"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 90015,
+    "stn_name": "CAPE OTWAY LIGHTHOUSE",
+    "description": "Cape Otway",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.8556",
+      "lon": "143.5128"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 90180,
+    "stn_name": "AIREYS INLET",
+    "description": "Aireys Inlet",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.4583",
+      "lon": "144.0883"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 200838,
+    "stn_name": "HOGAN ISLAND",
+    "description": "Hogan Island",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-39.2225",
+      "lon": "146.9841"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 84016,
+    "stn_name": "GABO ISLAND LIGHTHOUSE",
+    "description": "Gabo Island",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.5679",
+      "lon": "149.9158"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 400139,
+    "stn_name": "KINGFISH B (PLATFORM)",
+    "description": "Kingfish B",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.5997",
+      "lon": "148.1889"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 84150,
+    "stn_name": "LAKES ENTRANCE (EASTERN BEACH ROAD)",
+    "description": "Lakes Entrance",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.8717",
+      "lon": "148.0060"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 84070,
+    "stn_name": "POINT HICKS (LIGHTHOUSE)",
+    "description": "Point Hicks",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.8017",
+      "lon": "149.2747"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 89085,
+    "stn_name": "ARARAT PRISON",
+    "description": "Ararat",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.2769",
+      "lon": "142.9786"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 82169,
+    "stn_name": "CORRYONG AIRPORT",
+    "description": "Corryong Airport",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.1828",
+      "lon": "147.8938"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 79100,
+    "stn_name": "HORSHAM AERODROME",
+    "description": "Horsham",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.6697",
+      "lon": "142.1731"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 83085,
+    "stn_name": "MOUNT HOTHAM",
+    "description": "Mount Hotham",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.9767",
+      "lon": "147.1342"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 83090,
+    "stn_name": "OMEO",
+    "description": "Omeo",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.1017",
+      "lon": "147.6008"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 84145,
+    "stn_name": "ORBOST",
+    "description": "Orbost",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.6922",
+      "lon": "148.4667"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 90175,
+    "stn_name": "PORT FAIRY AWS",
+    "description": "Port Fairy",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.3906",
+      "lon": "142.2347"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 81125,
+    "stn_name": "SHEPPARTON AIRPORT",
+    "description": "Shepparton",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.4289",
+      "lon": "145.3947"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 76064,
+    "stn_name": "WALPEUP RESEARCH",
+    "description": "Walpeup",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-35.1201",
+      "lon": "142.0040"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 86127,
+    "stn_name": "WONTHAGGI",
+    "description": "Wonthaggi",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.6078",
+      "lon": "145.5965"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 80128,
+    "stn_name": "CHARLTON",
+    "description": "Charlton",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.2847",
+      "lon": "143.3341"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 77010,
+    "stn_name": "HOPETOUN AIRPORT",
+    "description": "Hopetoun Airport",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-35.7151",
+      "lon": "142.3569"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 80023,
+    "stn_name": "KERANG",
+    "description": "Kerang",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-35.7236",
+      "lon": "143.9197"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 76031,
+    "stn_name": "MILDURA AIRPORT",
+    "description": "Mildura",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-34.2358",
+      "lon": "142.0867"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 76047,
+    "stn_name": "OUYEN (POST OFFICE)",
+    "description": "Ouyen",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-35.0682",
+      "lon": "142.3125"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 77094,
+    "stn_name": "SWAN HILL AERODROME",
+    "description": "Swan Hill",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-35.3766",
+      "lon": "143.5416"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 79028,
+    "stn_name": "LONGERENONG",
+    "description": "Longerenong",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.6722",
+      "lon": "142.2991"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 78015,
+    "stn_name": "NHILL AERODROME",
+    "description": "Nhill Aerodrome",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.3092",
+      "lon": "141.6486"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 79105,
+    "stn_name": "STAWELL AERODROME",
+    "description": "Stawell",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.0720",
+      "lon": "142.7402"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 78077,
+    "stn_name": "WARRACKNABEAL MUSEUM",
+    "description": "Warracknabeal",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.2614",
+      "lon": "142.4050"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 79099,
+    "stn_name": "EDENHOPE AIRPORT",
+    "description": "Edenhope",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.0222",
+      "lon": "141.2657"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 79097,
+    "stn_name": "KANAGULK",
+    "description": "Kanagulk",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.1169",
+      "lon": "141.8031"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 81123,
+    "stn_name": "BENDIGO AIRPORT",
+    "description": "Bendigo",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.7395",
+      "lon": "144.3266"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 80015,
+    "stn_name": "ECHUCA AERODROME",
+    "description": "Echuca",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.1647",
+      "lon": "144.7642"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 80091,
+    "stn_name": "KYABRAM",
+    "description": "Kyabram",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.3350",
+      "lon": "145.0638"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 88109,
+    "stn_name": "MANGALORE AIRPORT",
+    "description": "Mangalore",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.8886",
+      "lon": "145.1859"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 82042,
+    "stn_name": "STRATHBOGIE",
+    "description": "Strathbogie",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.8472",
+      "lon": "145.7308"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 81049,
+    "stn_name": "TATURA INST SUSTAINABLE AG",
+    "description": "Tatura",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.4378",
+      "lon": "145.2672"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 81124,
+    "stn_name": "YARRAWONGA",
+    "description": "Yarrawonga",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.0294",
+      "lon": "146.0306"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 82170,
+    "stn_name": "BENALLA AIRPORT",
+    "description": "Benalla",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.5523",
+      "lon": "145.9977"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 83083,
+    "stn_name": "EDI UPPER",
+    "description": "Edi Upper",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.7396",
+      "lon": "146.4671"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 83084,
+    "stn_name": "FALLS CREEK",
+    "description": "Falls Creek",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.8708",
+      "lon": "147.2755"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 82139,
+    "stn_name": "HUNTERS HILL",
+    "description": "Hunters Hill",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.2136",
+      "lon": "147.5394"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 82076,
+    "stn_name": "DARTMOUTH RESERVOIR",
+    "description": "Lake Dartmouth",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.5353",
+      "lon": "147.4984"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 83024,
+    "stn_name": "MOUNT BULLER",
+    "description": "Mount Buller",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.1450",
+      "lon": "146.4394"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 82039,
+    "stn_name": "RUTHERGLEN RESEARCH",
+    "description": "Rutherglen",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.1047",
+      "lon": "146.5094"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 82138,
+    "stn_name": "WANGARATTA AERO",
+    "description": "Wangaratta",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-36.4206",
+      "lon": "146.3056"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 88023,
+    "stn_name": "LAKE EILDON",
+    "description": "Lake Eildon",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.2313",
+      "lon": "145.9124"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 83055,
+    "stn_name": "MOUNT HOTHAM AIRPORT",
+    "description": "Mount Hotham Airport",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.0491",
+      "lon": "147.3347"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 85279,
+    "stn_name": "BAIRNSDALE AIRPORT",
+    "description": "Bairnsdale",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.8817",
+      "lon": "147.5669"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 84143,
+    "stn_name": "COMBIENBAR AWS",
+    "description": "Combienbar",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.3417",
+      "lon": "149.0228"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 84142,
+    "stn_name": "GELANTIPY",
+    "description": "Gelantipy",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.2200",
+      "lon": "148.2625"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 84084,
+    "stn_name": "MALLACOOTA",
+    "description": "Mallacoota",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.5976",
+      "lon": "149.7289"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 84144,
+    "stn_name": "MOUNT NOWA NOWA",
+    "description": "Mount Nowa Nowa",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.6924",
+      "lon": "148.0908"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 85072,
+    "stn_name": "EAST SALE AIRPORT",
+    "description": "East Sale",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.1156",
+      "lon": "147.1322"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 85280,
+    "stn_name": "LATROBE VALLEY AIRPORT",
+    "description": "Latrobe Valley",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.2094",
+      "lon": "146.4747"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 85291,
+    "stn_name": "MOUNT BAW BAW",
+    "description": "Mount Baw Baw",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.8383",
+      "lon": "146.2747"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 85296,
+    "stn_name": "MOUNT MOORNAPA",
+    "description": "Mount Moornapa",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.7481",
+      "lon": "147.1428"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 85313,
+    "stn_name": "NILMA NORTH (WARRAGUL)",
+    "description": "Warragul (Nilma North)",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.1322",
+      "lon": "145.9867"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 85096,
+    "stn_name": "WILSONS PROMONTORY LIGHTHOUSE",
+    "description": "Wilsons Promontory",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-39.1297",
+      "lon": "146.4244"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 85301,
+    "stn_name": "YANAKIE",
+    "description": "Yanakie",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.8051",
+      "lon": "146.1939"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 85151,
+    "stn_name": "YARRAM AIRPORT",
+    "description": "Yarram Airport",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.5647",
+      "lon": "146.7479"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 89002,
+    "stn_name": "BALLARAT AERODROME",
+    "description": "Ballarat",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.5127",
+      "lon": "143.7911"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 85099,
+    "stn_name": "POUND CREEK",
+    "description": "Pound Creek",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.6297",
+      "lon": "145.8107"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 88051,
+    "stn_name": "REDESDALE",
+    "description": "Redesdale",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.0194",
+      "lon": "144.5203"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 88110,
+    "stn_name": "CASTLEMAINE PRISON",
+    "description": "Castlemaine",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.0809",
+      "lon": "144.2392"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 88164,
+    "stn_name": "EILDON FIRE TOWER",
+    "description": "Eildon Fire Tower",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.2091",
+      "lon": "145.8423"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 88162,
+    "stn_name": "KILMORE GAP",
+    "description": "Kilmore Gap",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.3807",
+      "lon": "144.9654"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 88043,
+    "stn_name": "MARYBOROUGH",
+    "description": "Maryborough",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.0560",
+      "lon": "143.7320"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 79101,
+    "stn_name": "BEN NEVIS",
+    "description": "Ben Nevis",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.2281",
+      "lon": "143.2006"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 90182,
+    "stn_name": "CASTERTON",
+    "description": "Casterton",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.5830",
+      "lon": "141.3339"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 90194,
+    "stn_name": "DARTMOOR",
+    "description": "Dartmoor",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.9222",
+      "lon": "141.2614"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 90173,
+    "stn_name": "HAMILTON AIRPORT",
+    "description": "Hamilton",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.6486",
+      "lon": "142.0636"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 90176,
+    "stn_name": "MORTLAKE RACECOURSE",
+    "description": "Mortlake",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.0737",
+      "lon": "142.7744"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 90035,
+    "stn_name": "MOUNT GELLIBRAND",
+    "description": "Mount Gellibrand",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.2333",
+      "lon": "143.7925"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 79103,
+    "stn_name": "MOUNT WILLIAM",
+    "description": "Mount William",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.2950",
+      "lon": "142.6039"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 90171,
+    "stn_name": "CASHMORE AIRPORT",
+    "description": "Portland Airport",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.3148",
+      "lon": "141.4705"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 90192,
+    "stn_name": "PORTLAND NTC AWS",
+    "description": "Portland Harbour",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.3439",
+      "lon": "141.6136"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 90186,
+    "stn_name": "WARRNAMBOOL AIRPORT NDB",
+    "description": "Warrnambool",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-38.2867",
+      "lon": "142.4522"
+    }
+  },
+  {
+    "identifier": "IDV60920",
+    "bom_id": 89112,
+    "stn_name": "WESTMERE",
+    "description": "Westmere",
+    "timezone": "Australia\/Melbourne",
+    "location": {
+      "lat": "-37.7067",
+      "lon": "142.9378"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9225,
+    "stn_name": "PERTH METRO",
+    "description": "Perth",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.9192",
+      "lon": "115.8728"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 200735,
+    "stn_name": "ADELE ISLAND",
+    "description": "Adele Island",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-15.5114",
+      "lon": "123.1556"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9021,
+    "stn_name": "PERTH AIRPORT",
+    "description": "Perth Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.9275",
+      "lon": "115.9764"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 2064,
+    "stn_name": "ARGYLE AERODROME",
+    "description": "Argyle",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-16.6381",
+      "lon": "128.4517"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9091,
+    "stn_name": "INNER DOLPHIN PYLON",
+    "description": "Melville Water",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.9889",
+      "lon": "115.8311"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 2056,
+    "stn_name": "KUNUNURRA AERO",
+    "description": "Kununurra Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-15.7814",
+      "lon": "128.7100"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9592,
+    "stn_name": "PEMBERTON",
+    "description": "Pemberton",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-34.4478",
+      "lon": "116.0433"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9998,
+    "stn_name": "NORTH WALPOLE",
+    "description": "Walpole North",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-34.9469",
+      "lon": "116.7222"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9871,
+    "stn_name": "WINDY HARBOUR",
+    "description": "Windy Harbour",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-34.8361",
+      "lon": "116.0308"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9746,
+    "stn_name": "WITCHCLIFFE",
+    "description": "Witchcliffe",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-34.0281",
+      "lon": "115.1042"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9500,
+    "stn_name": "ALBANY",
+    "description": "Albany",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-35.0289",
+      "lon": "117.8808"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9999,
+    "stn_name": "ALBANY AIRPORT",
+    "description": "Albany Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-34.9411",
+      "lon": "117.8158"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9581,
+    "stn_name": "MOUNT BARKER",
+    "description": "Mount Barker",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-34.6250",
+      "lon": "117.6361"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10905,
+    "stn_name": "JACUP",
+    "description": "Jacup",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.8878",
+      "lon": "119.1092"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10622,
+    "stn_name": "ONGERUP",
+    "description": "Ongerup",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.9644",
+      "lon": "118.4889"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9964,
+    "stn_name": "ROCKY GULLY",
+    "description": "Rocky Gully South",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-34.5714",
+      "lon": "117.0106"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9214,
+    "stn_name": "OCEAN REEF",
+    "description": "Ocean Reef",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.7594",
+      "lon": "115.7278"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9265,
+    "stn_name": "HILLARYS BOAT HARBOUR NTC AWS",
+    "description": "Hillarys Point Boat Harbour",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.8256",
+      "lon": "115.7386"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 503016,
+    "stn_name": "LOMBADINA AIRSTRIP",
+    "description": "Lombadina",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-16.5158",
+      "lon": "122.9214"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9789,
+    "stn_name": "ESPERANCE",
+    "description": "Esperance",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.8300",
+      "lon": "121.8925"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9542,
+    "stn_name": "ESPERANCE AERO",
+    "description": "Esperance Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.6825",
+      "lon": "121.8275"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 109504,
+    "stn_name": "ESPERANCE NTC AWS",
+    "description": "Esperance Harbour",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.8707",
+      "lon": "121.8971"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9961,
+    "stn_name": "HOPETOUN NORTH",
+    "description": "Hopetoun North",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.9306",
+      "lon": "120.1283"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 12044,
+    "stn_name": "MUNGLINUP WEST",
+    "description": "Munglinup West",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.5547",
+      "lon": "120.6997"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10633,
+    "stn_name": "RAVENSTHORPE",
+    "description": "Ravensthorpe",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.5803",
+      "lon": "120.0458"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 12071,
+    "stn_name": "SALMON GUMS RES.STN.",
+    "description": "Salmon Gums RS",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.9869",
+      "lon": "121.6239"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10524,
+    "stn_name": "BROOKTON",
+    "description": "Brookton",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.3728",
+      "lon": "117.0086"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10536,
+    "stn_name": "CORRIGIN",
+    "description": "Corrigin",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.3292",
+      "lon": "117.8733"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10568,
+    "stn_name": "HYDEN",
+    "description": "Hyden",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.4419",
+      "lon": "118.8983"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9053,
+    "stn_name": "PEARCE RAAF",
+    "description": "Pearce",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.6669",
+      "lon": "116.0189"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 4019,
+    "stn_name": "MANDORA",
+    "description": "Mandora",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-19.7419",
+      "lon": "120.8433"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10916,
+    "stn_name": "KATANNING",
+    "description": "Katanning RS",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.6856",
+      "lon": "117.6064"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10911,
+    "stn_name": "LAKE GRACE",
+    "description": "Lake Grace",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.1006",
+      "lon": "118.4647"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10614,
+    "stn_name": "NARROGIN",
+    "description": "Narrogin",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.9342",
+      "lon": "117.1797"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10692,
+    "stn_name": "NEWDEGATE RESEARCH STATION",
+    "description": "Newdegate",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.1131",
+      "lon": "118.8400"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10647,
+    "stn_name": "WAGIN",
+    "description": "Wagin",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.3075",
+      "lon": "117.3403"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10917,
+    "stn_name": "WANDERING",
+    "description": "Wandering",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.6722",
+      "lon": "116.6706"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10007,
+    "stn_name": "BENCUBBIN",
+    "description": "Bencubbin",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-30.8081",
+      "lon": "117.8603"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10515,
+    "stn_name": "BEVERLEY",
+    "description": "Beverley",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.1083",
+      "lon": "116.9247"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9193,
+    "stn_name": "ROTTNEST ISLAND",
+    "description": "Rottnest Island",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.0069",
+      "lon": "115.5022"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 1018,
+    "stn_name": "MOUNT ELIZABETH",
+    "description": "Mount Elizabeth",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-16.4181",
+      "lon": "126.1025"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10286,
+    "stn_name": "CUNDERDIN AIRFIELD",
+    "description": "Cunderdin Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.6219",
+      "lon": "117.2217"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 8297,
+    "stn_name": "DALWALLINU",
+    "description": "Dalwallinu",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-30.2761",
+      "lon": "116.6714"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10058,
+    "stn_name": "GOOMALLING",
+    "description": "Goomalling",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.2994",
+      "lon": "116.8269"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10092,
+    "stn_name": "MERREDIN",
+    "description": "Merredin",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.4756",
+      "lon": "118.2789"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10612,
+    "stn_name": "NAREMBEEN",
+    "description": "Narembeen",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.0656",
+      "lon": "118.3956"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10111,
+    "stn_name": "NORTHAM",
+    "description": "Northam",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.6508",
+      "lon": "116.6586"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 12320,
+    "stn_name": "SOUTHERN CROSS AIRFIELD",
+    "description": "Southern Cross Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.2353",
+      "lon": "119.3564"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 8137,
+    "stn_name": "WONGAN HILLS",
+    "description": "Wongan Hills",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-30.8917",
+      "lon": "116.7186"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9215,
+    "stn_name": "SWANBOURNE",
+    "description": "Swanbourne",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.9558",
+      "lon": "115.7619"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 10311,
+    "stn_name": "YORK",
+    "description": "York",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.8997",
+      "lon": "116.7650"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 1007,
+    "stn_name": "TROUGHTON ISLAND",
+    "description": "Troughton Island",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-13.7542",
+      "lon": "126.1485"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 1020,
+    "stn_name": "TRUSCOTT",
+    "description": "Truscott",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-14.0900",
+      "lon": "126.3867"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 2032,
+    "stn_name": "WARMUN",
+    "description": "Warmun",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-17.0156",
+      "lon": "128.2175"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 3096,
+    "stn_name": "WEST ROEBUCK",
+    "description": "West Roebuck",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-17.8964",
+      "lon": "122.3122"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9240,
+    "stn_name": "BICKLEY",
+    "description": "Bickley",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.0072",
+      "lon": "116.1369"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 3030,
+    "stn_name": "BIDYADANGA",
+    "description": "Bidyadanga",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-18.6844",
+      "lon": "121.7803"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 1006,
+    "stn_name": "WYNDHAM AERO",
+    "description": "Wyndham Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-15.5100",
+      "lon": "128.1503"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 5094,
+    "stn_name": "BARROW ISLAND AIRPORT",
+    "description": "Barrow Island",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-20.8750",
+      "lon": "115.4056"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 4100,
+    "stn_name": "BEDOUT ISLAND",
+    "description": "Bedout Island",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-19.5894",
+      "lon": "119.1000"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 6072,
+    "stn_name": "EMU CREEK STATION",
+    "description": "Emu Creek",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-23.0314",
+      "lon": "115.0414"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 4083,
+    "stn_name": "KARRATHA AERO",
+    "description": "Karratha",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-20.7097",
+      "lon": "116.7742"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 5007,
+    "stn_name": "LEARMONTH AIRPORT",
+    "description": "Learmonth",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-22.2406",
+      "lon": "114.0967"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 505053,
+    "stn_name": "BARIMUNYA",
+    "description": "Barimunya",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-22.6719",
+      "lon": "119.1628"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 505049,
+    "stn_name": "CHRISTMAS CREEK",
+    "description": "Christmas Creek",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-22.3562",
+      "lon": "119.6497"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 505051,
+    "stn_name": "COONDEWANNA",
+    "description": "Coondewanna",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-22.9650",
+      "lon": "118.8089"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 505056,
+    "stn_name": "FORTESCUE DAVE FORREST",
+    "description": "Fortescue Dave Forrest",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-22.2900",
+      "lon": "119.4344"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 504045,
+    "stn_name": "SHAY GAP",
+    "description": "Shay Gap",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-20.4254",
+      "lon": "120.1311"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 4106,
+    "stn_name": "MARBLE BAR",
+    "description": "Marble Bar",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-21.1756",
+      "lon": "119.7497"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 5008,
+    "stn_name": "MARDIE",
+    "description": "Mardie",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-21.1906",
+      "lon": "115.9797"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 7176,
+    "stn_name": "NEWMAN AERO",
+    "description": "Newman Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-23.4167",
+      "lon": "119.7992"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 5017,
+    "stn_name": "ONSLOW AIRPORT",
+    "description": "Onslow Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-21.6689",
+      "lon": "115.1092"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 3003,
+    "stn_name": "BROOME AIRPORT",
+    "description": "Broome",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-17.9475",
+      "lon": "122.2353"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 3102,
+    "stn_name": "BROOME NTC AWS",
+    "description": "Broome Port",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-18.0008",
+      "lon": "122.2183"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 7185,
+    "stn_name": "PARABURDOO AERO",
+    "description": "Paraburdoo",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-23.1725",
+      "lon": "117.7494"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 4028,
+    "stn_name": "PARDOO STATION",
+    "description": "Pardoo",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-20.1078",
+      "lon": "119.5811"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 4032,
+    "stn_name": "PORT HEDLAND AIRPORT",
+    "description": "Port Hedland",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-20.3725",
+      "lon": "118.6317"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 4090,
+    "stn_name": "ROEBOURNE AERO",
+    "description": "Roebourne Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-20.7594",
+      "lon": "117.1583"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 13030,
+    "stn_name": "TELFER AERO",
+    "description": "Telfer",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-21.7125",
+      "lon": "122.2281"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 6011,
+    "stn_name": "CARNARVON AIRPORT",
+    "description": "Carnarvon",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-24.8878",
+      "lon": "113.6700"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 12239,
+    "stn_name": "BULGA DOWNS",
+    "description": "Bulga Downs",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-28.4967",
+      "lon": "119.7436"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 6044,
+    "stn_name": "DENHAM",
+    "description": "Denham",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-25.9261",
+      "lon": "113.5319"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 7045,
+    "stn_name": "MEEKATHARRA AIRPORT",
+    "description": "Meekatharra",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-26.6136",
+      "lon": "118.5372"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 507500,
+    "stn_name": "DEGRUSSA AERODROME",
+    "description": "Degrussa Aerodrome",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-25.5571",
+      "lon": "119.2868"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9256,
+    "stn_name": "GARDEN ISLAND HSF",
+    "description": "Garden Island",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.2433",
+      "lon": "115.6839"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 3080,
+    "stn_name": "CURTIN AERO",
+    "description": "Curtin",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-17.5769",
+      "lon": "123.8297"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 7600,
+    "stn_name": "MOUNT MAGNET AERO",
+    "description": "Mount Magnet Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-28.1156",
+      "lon": "117.8425"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 6099,
+    "stn_name": "MURCHISON",
+    "description": "Murchison",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-26.8956",
+      "lon": "115.9567"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 7139,
+    "stn_name": "PAYNES FIND",
+    "description": "Paynes Find",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-29.2708",
+      "lon": "117.6836"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 6105,
+    "stn_name": "SHARK BAY AIRPORT",
+    "description": "Shark Bay Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-25.8925",
+      "lon": "113.5772"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 12038,
+    "stn_name": "KALGOORLIE-BOULDER AIRPORT",
+    "description": "Kalgoorlie-Boulder",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-30.7847",
+      "lon": "121.4533"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 12305,
+    "stn_name": "LAVERTON AERO",
+    "description": "Laverton",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-28.6133",
+      "lon": "122.4236"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 12314,
+    "stn_name": "LEINSTER AERO",
+    "description": "Leinster",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-27.8386",
+      "lon": "120.7031"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 12241,
+    "stn_name": "LEONORA AERO",
+    "description": "Leonora Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-28.8789",
+      "lon": "121.3186"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9204,
+    "stn_name": "GOOSEBERRY HILL",
+    "description": "Gooseberry Hill",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.9414",
+      "lon": "116.0506"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9106,
+    "stn_name": "GOSNELLS CITY",
+    "description": "Gosnells",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.0481",
+      "lon": "115.9844"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 3057,
+    "stn_name": "CYGNET BAY",
+    "description": "Cygnet Bay",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-16.4514",
+      "lon": "123.0086"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 12009,
+    "stn_name": "NORSEMAN AERO",
+    "description": "Norseman Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.2147",
+      "lon": "121.7547"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 13012,
+    "stn_name": "WILUNA",
+    "description": "Wiluna",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-26.5914",
+      "lon": "120.2258"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 512019,
+    "stn_name": "MOUNT KEITH",
+    "description": "Mount Keith",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-27.2856",
+      "lon": "120.5547"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 12090,
+    "stn_name": "YEELIRRIE",
+    "description": "Yeelirrie",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-27.2842",
+      "lon": "120.0931"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 11017,
+    "stn_name": "BALLADONIA",
+    "description": "Balladonia",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.4569",
+      "lon": "123.8653"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 11003,
+    "stn_name": "EUCLA",
+    "description": "Eucla",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.6797",
+      "lon": "128.8958"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 11019,
+    "stn_name": "EYRE",
+    "description": "Eyre",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.2464",
+      "lon": "126.3008"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 11052,
+    "stn_name": "FORREST",
+    "description": "Forrest",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-30.8453",
+      "lon": "128.1092"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 13015,
+    "stn_name": "CARNEGIE",
+    "description": "Carnegie",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-25.7964",
+      "lon": "122.9753"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 13017,
+    "stn_name": "GILES METEOROLOGICAL OFFICE",
+    "description": "Giles",
+    "timezone": "Australia\/Adelaide",
+    "location": {
+      "lat": "-25.0341",
+      "lon": "128.3010"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 13011,
+    "stn_name": "WARBURTON AIRFIELD",
+    "description": "Warburton",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-26.1317",
+      "lon": "126.5839"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9172,
+    "stn_name": "JANDAKOT AERO",
+    "description": "Jandakot",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.1011",
+      "lon": "115.8794"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 3032,
+    "stn_name": "DERBY AERO",
+    "description": "Derby",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-17.3706",
+      "lon": "123.6611"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9037,
+    "stn_name": "BADGINGARRA RESEARCH STN",
+    "description": "Badgingarra",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-30.3381",
+      "lon": "115.5394"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 8025,
+    "stn_name": "CARNAMAH",
+    "description": "Carnamah",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-29.6886",
+      "lon": "115.8872"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 8225,
+    "stn_name": "ENEABBA",
+    "description": "Eneabba",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-29.8183",
+      "lon": "115.2722"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 8315,
+    "stn_name": "GERALDTON AIRPORT",
+    "description": "Geraldton Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-28.8047",
+      "lon": "114.6989"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9131,
+    "stn_name": "JURIEN BAY",
+    "description": "Jurien Bay",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-30.3081",
+      "lon": "115.0311"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 8251,
+    "stn_name": "KALBARRI",
+    "description": "Kalbarri",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-27.7119",
+      "lon": "114.1650"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 8296,
+    "stn_name": "MORAWA AIRPORT",
+    "description": "Morawa Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-29.2039",
+      "lon": "116.0247"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 8095,
+    "stn_name": "MULLEWA",
+    "description": "Mullewa",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-28.5367",
+      "lon": "115.5142"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9111,
+    "stn_name": "KARNET",
+    "description": "Karnet",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.4389",
+      "lon": "116.0789"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 3093,
+    "stn_name": "FITZROY CROSSING AERO",
+    "description": "Fitzroy Crossing",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-18.1814",
+      "lon": "125.5619"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 8290,
+    "stn_name": "NORTH ISLAND",
+    "description": "North Island",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-28.3008",
+      "lon": "113.5936"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9538,
+    "stn_name": "DWELLINGUP",
+    "description": "Dwellingup",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.7103",
+      "lon": "116.0594"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9178,
+    "stn_name": "GINGIN AERO",
+    "description": "Gingin Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.4628",
+      "lon": "115.8642"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9114,
+    "stn_name": "LANCELIN",
+    "description": "Lancelin",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-31.0160",
+      "lon": "115.3322"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9977,
+    "stn_name": "MANDURAH",
+    "description": "Mandurah",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-32.5219",
+      "lon": "115.7119"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 2012,
+    "stn_name": "HALLS CREEK AIRPORT",
+    "description": "Halls Creek",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-18.2292",
+      "lon": "127.6636"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9617,
+    "stn_name": "BRIDGETOWN",
+    "description": "Bridgetown",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.9486",
+      "lon": "116.1311"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 1019,
+    "stn_name": "KALUMBURU",
+    "description": "Kalumburu",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-14.2964",
+      "lon": "126.6453"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9965,
+    "stn_name": "BUNBURY",
+    "description": "Bunbury",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.3567",
+      "lon": "115.6447"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9603,
+    "stn_name": "BUSSELTON AERO",
+    "description": "Busselton Airport",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.6858",
+      "lon": "115.4008"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9937,
+    "stn_name": "BUSSELTON JETTY",
+    "description": "Busselton Jetty",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.6294",
+      "lon": "115.3383"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9518,
+    "stn_name": "CAPE LEEUWIN",
+    "description": "Cape Leeuwin",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-34.3728",
+      "lon": "115.1358"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9519,
+    "stn_name": "CAPE NATURALISTE",
+    "description": "Cape Naturaliste",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.5372",
+      "lon": "115.0189"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9994,
+    "stn_name": "COLLIE EAST",
+    "description": "Collie East",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.3608",
+      "lon": "116.1717"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9534,
+    "stn_name": "DONNYBROOK",
+    "description": "Donnybrook",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-33.5719",
+      "lon": "115.8247"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 9573,
+    "stn_name": "MANJIMUP",
+    "description": "Manjimup",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-34.2508",
+      "lon": "116.1450"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 200713,
+    "stn_name": "ROWLEY SHOALS",
+    "description": "Rowley Shoals",
+    "timezone": "Australia\/Perth",
+    "location": {
+      "lat": "-17.5217",
+      "lon": "118.9531"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 200790,
+    "stn_name": "CHRISTMAS ISLAND AERO",
+    "description": "Christmas Island",
+    "timezone": "Indian\/Christmas",
+    "location": {
+      "lat": "-10.4528",
+      "lon": "105.6875"
+    }
+  },
+  {
+    "identifier": "IDW60920",
+    "bom_id": 200284,
+    "stn_name": "COCOS ISLAND AIRPORT",
+    "description": "Cocos Island",
+    "timezone": "Indian\/Cocos",
+    "location": {
+      "lat": "-12.1892",
+      "lon": "96.8344"
+    }
+  }
+]

@@ -1,6 +1,8 @@
 <?php
 
     namespace AppBundle\Services;
+
+    use AppBundle\WeatherPrediction;
     use Symfony\Component\Serializer\Encoder\XmlEncoder;
     use Symfony\Component\Serializer\Normalizer\ObjectNormalizer;
     use Symfony\Component\Serializer\Serializer;
@@ -70,6 +72,65 @@
         {
             $fileList = ftp_nlist($this->connectionID, $dir);
             return $fileList;
+        }
+
+        /**
+         * @param string $dir
+         *
+         * @return array
+         */
+        public function getWeatherStationsList($dir = '.')
+        {
+            $fileList = ftp_nlist($this->connectionID, $dir);
+            $idfile = "idfile.json";
+            $fh = fopen($idfile, "w") or die("Unable to open the file");
+            $data = [];
+
+            foreach ($fileList as $file) {
+
+                if (preg_match("/^[a-zA-Z0-9]+\.xml/", $file)) {
+                    try {
+                        $tempFile = tempnam(sys_get_temp_dir(), 'ftp');
+                        ftp_get($this->connectionID, $tempFile, $file, FTP_BINARY);
+                        $contents = file_get_contents($tempFile);
+
+                        $encoders = [new XmlEncoder()];
+                        $normalizer = [new ObjectNormalizer()];
+                        $serializer = new Serializer($normalizer, $encoders);
+
+                        /** @var WeatherPrediction $deserialized */
+                        $deserialized = $serializer->deserialize($contents, 'AppBundle\WeatherPrediction', 'xml');
+
+                        unlink($tempFile);
+
+                        if (!empty($deserialized->getObservations())) {
+
+                            foreach ($deserialized->getObservations() as $stations) {
+                                foreach ($stations as $station) {
+                                    $eachData = [];
+                                    $eachData['identifier'] = $deserialized->getAmoc()['identifier'];
+                                    $eachData['bom_id'] = $station['@bom-id'];
+                                    $eachData['stn_name'] = $station['@stn-name'];
+                                    $eachData['description'] = $station['@description'];
+                                    $eachData['timezone'] = $station['@tz'];
+                                    $eachData['location'] = [
+                                        'lat' => $station['@lat'],
+                                        'lon' => $station['@lon']
+                                    ];
+
+                                    $data[] = $eachData;
+                                }
+                            }
+                        }
+                    } catch (\Exception $ex) {
+                        continue;
+                    }
+                }
+            }
+            fwrite($fh, json_encode($data));
+            fclose($fh);
+
+            return $data;
         }
 
         /**

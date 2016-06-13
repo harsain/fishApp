@@ -15,4 +15,30 @@
 
         public $forecast;
 
+        public $observations;
+
+        /**
+         * @return mixed
+         */
+        public function getAmoc()
+        {
+            return $this->amoc;
+        }
+
+        /**
+         * @return mixed
+         */
+        public function getForecast()
+        {
+            return $this->forecast;
+        }
+
+        /**
+         * @return mixed
+         */
+        public function getObservations()
+        {
+            return $this->observations;
+        }
+
     }

@@ -99,3 +99,6 @@ assetic:
             inputs:
                 - '%kernel.root_dir%/../vendor/twitter/bootstrap/dist/fonts/glyphicons-halflings-regular.woff'
             output: "fonts/glyphicons-halflings-regular.woff"
+        jquery:
+            inputs:
+                - '%kernel.root_dir%/../vendor/components/jquery/jquery.js'
