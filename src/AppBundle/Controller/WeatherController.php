@@ -3,6 +3,7 @@
 namespace AppBundle\Controller;
 
 use AppBundle\Services\FTPClient;
+use AppBundle\Services\WeatherEstimator;
 use Sensio\Bundle\FrameworkExtraBundle\Configuration\Route;
 use Symfony\Bundle\FrameworkBundle\Controller\Controller;
 use Symfony\Component\HttpFoundation\JsonResponse;
@@ -110,6 +111,71 @@ class WeatherController extends Controller
                 );
             }
         }
+    }
+
+    public function getStationLocations($stationsData)
+    {
+
+        $stationLocations = [];
+        foreach ($stationsData as $item) {
+            // var_dump($item);
+        }
+
+        return 0;
+    }
+
+    /**
+     * @Route("/weather/station/distance", name="_distanceEstimate")
+     * @return int
+     */
+    public function estimateDistance()
+    {
+        $idfile = $this->getParameter('kernel.root_dir') . '/../web/idfile.json';
+//        $fileContents = file_get_contents($idfile);
+//
+//        $stationLocations = array_map('getStationLocations', json_decode($fileContents, true));
+////        $this->getStationLocations($fileContents);
+        $lat = -38.098971;
+        $lon = 145.253902;
+
+        $weatherEstimator = new WeatherEstimator();
+        $closestStation = $weatherEstimator->getReadings($idfile, $lat, $lon);
+
+        return JsonResponse::create($closestStation);
+    }
+
+    /**
+     * @Route("/weather/live", name="_weather")
+     * @return \Symfony\Component\HttpFoundation\Response
+     */
+    public function getMyWeather()
+    {
+        return $this->render(
+            'WeatherStationReadingList/weatherreading.html.twig'
+        );
+    }
+
+    public function calculateDistance($lat, $lon)
+    {
+        $lat = -38.098971;
+        $lon = 145.253902;
+
+        $stnLat = -38.1348;
+        $stnLon = 145.2637;
+        $R = 6371;  //  km
+        $dLat = deg2rad($lat - $stnLat);
+        $dLon = deg2rad($lon - $stnLon);
+
+        $stnLatRad = deg2rad($stnLat);
+        $userLatRad = deg2rad($stnLat);
+
+        $a = sin($dLat / 2) * sin($dLat / 2) + sin($dLon / 2) * sin($dLon / 2) * cos($stnLatRad) * cos($userLatRad);
+
+        $c = 2 * atan2(sqrt($a), sqrt(1 - $a));
+
+        $d = $R * $c;
+
+        return JsonResponse::create(["distance" => $d]);
     }
 }
 

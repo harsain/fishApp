@@ -82,8 +82,8 @@
         public function getWeatherStationsList($dir = '.')
         {
             $fileList = ftp_nlist($this->connectionID, $dir);
-            $idfile = "idfile.json";
-            $fh = fopen($idfile, "w") or die("Unable to open the file");
+            $idfile = "idfile_with_key.json";
+            $fh = fopen($idfile, "w") or die("ERROR -- Unable to open the file " . $idfile);
             $data = [];
 
             foreach ($fileList as $file) {
@@ -107,13 +107,13 @@
 
                             foreach ($deserialized->getObservations() as $stations) {
                                 foreach ($stations as $station) {
-                                    $eachData = [];
-                                    $eachData['identifier'] = $deserialized->getAmoc()['identifier'];
-                                    $eachData['bom_id'] = $station['@bom-id'];
-                                    $eachData['stn_name'] = $station['@stn-name'];
-                                    $eachData['description'] = $station['@description'];
-                                    $eachData['timezone'] = $station['@tz'];
-                                    $eachData['location'] = [
+                                    $eachData[ $deserialized->getAmoc()['identifier'] ] = [];
+                                    //$eachData['identifier'] = $deserialized->getAmoc()['identifier'];
+                                    $eachData[ $deserialized->getAmoc()['identifier'] ]['bom_id'] = $station['@bom-id'];
+                                    $eachData[ $deserialized->getAmoc()['identifier'] ]['stn_name'] = $station['@stn-name'];
+                                    $eachData[ $deserialized->getAmoc()['identifier'] ]['description'] = $station['@description'];
+                                    $eachData[ $deserialized->getAmoc()['identifier'] ]['timezone'] = $station['@tz'];
+                                    $eachData[ $deserialized->getAmoc()['identifier'] ]['location'] = [
                                         'lat' => $station['@lat'],
                                         'lon' => $station['@lon']
                                     ];

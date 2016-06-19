@@ -8,14 +8,15 @@
         {% stylesheets '@bootstrap_css' %}
             <link rel="stylesheet" type="text/css" media="screen" href="{{ asset_url }}"/>
         {% endstylesheets %}
-        {% javascripts '@jquery' '@bootstrap_js' %}
-            <script type="text/javascript" src="{{ asset_url }}"></script>
-        {% endjavascripts %}
     </head>
     <body>
-        <div class="container-fluid">
-            {% block body %}{% endblock %}
-            {% block javascripts %}{% endblock %}
+    <div class="container-fluid">
+        {% javascripts '@jquery' '@bootstrap_js' %}
+        <script type="text/javascript" src="{{ asset_url }}"></script>
+        {% endjavascripts %}
+        {% block body %}{% endblock %}
+        {#{% block javascripts %}#}
+        {#{% endblock %}#}
         </div>
     </body>
 </html>
