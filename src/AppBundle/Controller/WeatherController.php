@@ -34,7 +34,7 @@ class WeatherController extends Controller
      * @Route("/weather/stations/readings", name="_listing")
      * @return string
      */
-    public function getWeatherReadingsListAction()
+    public function getWeatherReadingsList()
     {
         if ($this->ftpClient->connect() ){
             if ($this->ftpClient->changeDir('/anon/gen/fwo')) {
@@ -56,7 +56,7 @@ class WeatherController extends Controller
      * @Route("/weather/stations/live", name="_stationslistinglive")
      * @return \Symfony\Component\HttpFoundation\Response|static
      */
-    public function getWeatherStationsLiveListAction()
+    public function getWeatherStationsLiveList()
     {
         if ($this->ftpClient->connect()) {
             if ($this->ftpClient->changeDir('/anon/gen/fwo')) {
@@ -98,7 +98,7 @@ class WeatherController extends Controller
      *
      * @return string
      */
-    public function getWeatherStationReadingAction($stationId)
+    public function getWeatherStationReading($stationId)
     {
         if ($this->ftpClient->connect() ) {
             if ($this->ftpClient->changeDir('/anon/gen/fwo')) {
