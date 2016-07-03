@@ -158,7 +158,7 @@
                 case 'pres':
                     $pres = [
                         'value' => $stationPeriodLevelElement['#'],
-                        'units' => $stationPeriodLevelElement['@units']
+                        'unit'  => $stationPeriodLevelElement['@units']
                     ];
                     $reading->setPressure($pres);
                     break;
@@ -172,7 +172,7 @@
                 case 'qnh_pres':
                     $qnhPres = [
                         'value' => $stationPeriodLevelElement['#'],
-                        'units' => $stationPeriodLevelElement['@units']
+                        'unit'  => $stationPeriodLevelElement['@units']
                     ];
                     $reading->setQnhPres($qnhPres);
                     break;
