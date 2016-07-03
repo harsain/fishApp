@@ -76,30 +76,31 @@
         {
             $reading = new StationReading();
             if (!empty($stationReadingArr)) {
-                $stationReading = $stationReadingArr[0];
-                $reading->setWmoId($stationReading['@wmo-id']);
-                $reading->setBomId($stationReading['@bom-id']);
-                $reading->setTz($stationReading['@tz']);
-                $reading->setStnName($stationReading['@stn-name']);
-                $reading->setStnHeight($stationReading['@stn-height']);
-                $reading->setLatitude($stationReading['@lat']);
-                $reading->setLongitude($stationReading['@lon']);
-                $reading->setForecastDistrictId($stationReading['@forecast-district-id']);
-                $reading->setDescription($stationReading['@description']);
-                $reading->setType($stationReading['@type']);
-                if ($stationReading['period']) {
-                    $stationPeriod = $stationReading['period'];
-                    $reading->setTimeUTC($stationPeriod['@time-utc']);
-                    $reading->setTimeLocal($stationPeriod['@time-local']);
+                foreach ($stationReadingArr as $stationReading) {
+                    $reading->setWmoId($stationReading['@wmo-id']);
+                    $reading->setBomId($stationReading['@bom-id']);
+                    $reading->setTz($stationReading['@tz']);
+                    $reading->setStnName($stationReading['@stn-name']);
+                    $reading->setStnHeight($stationReading['@stn-height']);
+                    $reading->setLatitude($stationReading['@lat']);
+                    $reading->setLongitude($stationReading['@lon']);
+                    $reading->setForecastDistrictId($stationReading['@forecast-district-id']);
+                    $reading->setDescription($stationReading['@description']);
+                    $reading->setType($stationReading['@type']);
+                    if ($stationReading['period']) {
+                        $stationPeriod = $stationReading['period'];
+                        $reading->setTimeUTC($stationPeriod['@time-utc']);
+                        $reading->setTimeLocal($stationPeriod['@time-local']);
 
-                    if ($stationPeriod['level']) {
-                        $stationPeriodLevel = $stationPeriod['level'];
+                        if ($stationPeriod['level']) {
+                            $stationPeriodLevel = $stationPeriod['level'];
 
-                        if ($stationPeriodLevel['element']) {
-                            $stationPeriodLevelElement = $stationPeriodLevel['element'];
+                            if ($stationPeriodLevel['element']) {
+                                $stationPeriodLevelElement = $stationPeriodLevel['element'];
 
-                            foreach ($stationPeriodLevelElement as $element) {
-                                $this->stationPeriodLevelElementParser($element, $reading);
+                                foreach ($stationPeriodLevelElement as $element) {
+                                    $this->stationPeriodLevelElementParser($element, $reading);
+                                }
                             }
                         }
                     }
