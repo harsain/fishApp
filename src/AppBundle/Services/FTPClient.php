@@ -153,4 +153,27 @@
             unlink($tempFile);
             return $deserialized;
         }
+
+        public function readStationWeather($stationId, $bomId)
+        {
+            $tempFile = tempnam(sys_get_temp_dir(), 'ftp');
+            ftp_get($this->connectionID, $tempFile, $stationId, FTP_BINARY);
+
+            $encoders = [new XmlEncoder()];
+            $normalizer = [new ObjectNormalizer()];
+            $serializer = new Serializer($normalizer, $encoders);
+
+            $deserialized = $serializer->deserialize(file_get_contents($tempFile), 'AppBundle\WeatherPrediction', 'xml');
+
+            // match the station we are looking for
+            $matched = array_filter($deserialized->getObservations()["station"], function ($station) use ($bomId) {
+                if ($station["@bom-id"] == $bomId) {
+                    return $station;
+                }
+            });
+
+            unlink($tempFile);
+
+            return $matched;
+        }
     }

@@ -21,6 +21,7 @@ function getLocation() {
 
 function getWeatherFoLocation(position) {
     alert(position);
+    console.log(position);
 }
 
 function handleError(error) {

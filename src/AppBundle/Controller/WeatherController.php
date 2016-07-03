@@ -144,15 +144,29 @@ class WeatherController extends Controller
         return JsonResponse::create($closestStation);
     }
 
+//    /**
+//     * @Route('/location', name="_location")
+//     * @return \Symfony\Component\HttpFoundation\Response
+//     */
+//    public function getMyLocation()
+//    {
+//        return $this->render(
+//            'WeatherStationReadingList/weatherreading.html.twig'
+//        );
+//    }
+
     /**
-     * @Route("/weather/live", name="_weather")
+     * @Route("/weather/live/{latitude}/{longitude}", name="_weather")
      * @return \Symfony\Component\HttpFoundation\Response
      */
-    public function getMyWeather()
+    public function getMyWeather($latitude, $longitude)
     {
-        return $this->render(
-            'WeatherStationReadingList/weatherreading.html.twig'
-        );
+        $idfile = $this->getParameter('kernel.root_dir') . '/../web/idfile.json';
+
+        $weatherEstimator = new WeatherEstimator();
+        $closestStation = $weatherEstimator->getReadings($idfile, $latitude, $longitude);
+
+        return JsonResponse::create($closestStation);
     }
 
     public function calculateDistance($lat, $lon)

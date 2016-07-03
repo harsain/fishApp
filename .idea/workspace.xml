@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fea5aa14-a311-44bc-aafc-1fe41d89f61f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/WeatherStationReadingList/weatherreading.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Services/WeatherEstimator.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/idfile_with_key.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/FishApp.iml" afterPath="$PROJECT_DIR$/.idea/FishApp.iml" />
+    <list default="true" id="fea5aa14-a311-44bc-aafc-1fe41d89f61f" name="Default" comment="Getting correct location">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Model/StationReading.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/base.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/config/config.yml" afterPath="$PROJECT_DIR$/app/config/config.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.json" afterPath="$PROJECT_DIR$/composer.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/js/main.js" afterPath="$PROJECT_DIR$/app/Resources/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Controller/WeatherController.php" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/WeatherController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Services/FTPClient.php" afterPath="$PROJECT_DIR$/src/AppBundle/Services/FTPClient.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/AppBundle/Services/WeatherEstimator.php" afterPath="$PROJECT_DIR$/src/AppBundle/Services/WeatherEstimator.php" />
     </list>
     <ignored path="FishApp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,103 +29,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WeatherController.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WeatherController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/WeatherController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21860987">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+            <state vertical-scroll-proportion="-16.791666">
+              <caret line="168" column="52" selection-start-line="168" selection-start-column="52" selection-end-line="168" selection-end-column="52" />
               <folding>
                 <element signature="e#40#73#0#PHP" expanded="true" />
                 <element signature="e#444#493#0#PHP" expanded="true" />
                 <element signature="e#586#615#0#PHP" expanded="true" />
                 <element signature="e#725#819#0#PHP" expanded="true" />
-                <element signature="e#1414#1559#0#PHP" expanded="true" />
-                <element signature="e#2264#2400#0#PHP" expanded="true" />
-                <element signature="e#2845#2983#0#PHP" expanded="true" />
-                <element signature="e#3758#3857#0#PHP" expanded="true" />
-                <element signature="e#4447#4564#0#PHP" expanded="true" />
-                <element signature="e#4648#4700#1#PHP" expanded="true" />
+                <element signature="e#1408#1553#0#PHP" expanded="true" />
+                <element signature="e#2252#2388#0#PHP" expanded="true" />
+                <element signature="e#2833#2971#0#PHP" expanded="true" />
+                <element signature="e#3741#3840#0#PHP" expanded="true" />
+                <element signature="e#4724#4864#0#PHP" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="weatherreading.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Resources/views/WeatherStationReadingList/weatherreading.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-2.5">
-              <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-              <folding>
-                <element signature="e#13#29#0#Twig" expanded="false" />
-                <marker date="1466330866000" expanded="true" signature="36:211" placeholder="{% block body ...%}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="106" column="58" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
-              <folding>
-                <marker date="1466329206000" expanded="true" signature="2193:3804" placeholder="assetic:" />
-                <marker date="1466329206000" expanded="true" signature="2315:3804" placeholder="assets:" />
-                <marker date="1466329206000" expanded="true" signature="2331:2434" placeholder="jquery:" />
-                <marker date="1466329206000" expanded="true" signature="2443:2565" placeholder="bootstrap_js:" />
-                <marker date="1466329206000" expanded="true" signature="2574:2820" placeholder="bootstrap_css:" />
-                <marker date="1466329206000" expanded="true" signature="2829:3042" placeholder="bootstrap_glyphicons_ttf:" />
-                <marker date="1466329206000" expanded="true" signature="3051:3264" placeholder="bootstrap_glyphicons_eot:" />
-                <marker date="1466329206000" expanded="true" signature="3273:3486" placeholder="bootstrap_glyphicons_svg:" />
-                <marker date="1466329206000" expanded="true" signature="3495:3711" placeholder="bootstrap_glyphicons_woff:" />
-                <marker date="1466329206000" expanded="true" signature="3720:3804" placeholder="main:" />
-                <marker date="1466329206000" expanded="true" signature="3738:3804" placeholder="inputs:" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.625">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.083333">
-              <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/Resources/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="88" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
-              <folding>
-                <element signature="e#57#103#0" expanded="true" />
-                <element signature="e#184#293#0" expanded="true" />
-                <element signature="n#!!block;n#getWeatherFoLocation#0" expanded="true" />
-                <element signature="n#!!block;n#handleError#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WeatherEstimator.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/AppBundle/Services/WeatherEstimator.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.125">
-              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -140,8 +52,124 @@
       <file leaf-file-name="FTPClient.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/Services/FTPClient.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-12.791667">
-              <caret line="118" column="38" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
+            <state vertical-scroll-proportion="-24.291666">
+              <caret line="163" column="65" selection-start-line="161" selection-start-column="12" selection-end-line="163" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WeatherEstimator.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Services/WeatherEstimator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.375">
+              <caret line="163" column="32" selection-start-line="163" selection-start-column="32" selection-end-line="163" selection-end-column="32" />
+              <folding>
+                <element signature="e#169#204#0#PHP" expanded="true" />
+                <element signature="e#1621#1768#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="idfile.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web/idfile.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="6.1993318">
+              <caret line="5710" column="3" selection-start-line="5710" selection-start-column="3" selection-end-line="5710" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StationReading.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Model/StationReading.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding>
+                <element signature="e#1382#1422#0#PHP" expanded="true" />
+                <element signature="e#1520#1566#0#PHP" expanded="true" />
+                <element signature="e#1672#1712#0#PHP" expanded="true" />
+                <element signature="e#1810#1856#0#PHP" expanded="true" />
+                <element signature="e#1962#2002#0#PHP" expanded="true" />
+                <element signature="e#2094#2137#0#PHP" expanded="true" />
+                <element signature="e#2231#2271#0#PHP" expanded="true" />
+                <element signature="e#2373#2421#0#PHP" expanded="true" />
+                <element signature="e#2535#2575#0#PHP" expanded="true" />
+                <element signature="e#2681#2731#0#PHP" expanded="true" />
+                <element signature="e#2853#2893#0#PHP" expanded="true" />
+                <element signature="e#2989#3034#0#PHP" expanded="true" />
+                <element signature="e#3136#3176#0#PHP" expanded="true" />
+                <element signature="e#3280#3329#0#PHP" expanded="true" />
+                <element signature="e#3447#3487#0#PHP" expanded="true" />
+                <element signature="e#3593#3643#0#PHP" expanded="true" />
+                <element signature="e#3765#3805#0#PHP" expanded="true" />
+                <element signature="e#3929#3988#0#PHP" expanded="true" />
+                <element signature="e#4146#4186#0#PHP" expanded="true" />
+                <element signature="e#4296#4348#0#PHP" expanded="true" />
+                <element signature="e#4478#4518#0#PHP" expanded="true" />
+                <element signature="e#4620#4668#0#PHP" expanded="true" />
+                <element signature="e#4782#4822#0#PHP" expanded="true" />
+                <element signature="e#4928#4978#0#PHP" expanded="true" />
+                <element signature="e#5100#5140#0#PHP" expanded="true" />
+                <element signature="e#5250#5302#0#PHP" expanded="true" />
+                <element signature="e#5432#5472#0#PHP" expanded="true" />
+                <element signature="e#5570#5616#0#PHP" expanded="true" />
+                <element signature="e#5722#5762#0#PHP" expanded="true" />
+                <element signature="e#5864#5912#0#PHP" expanded="true" />
+                <element signature="e#6026#6066#0#PHP" expanded="true" />
+                <element signature="e#6176#6228#0#PHP" expanded="true" />
+                <element signature="e#6358#6398#0#PHP" expanded="true" />
+                <element signature="e#6514#6569#0#PHP" expanded="true" />
+                <element signature="e#6711#6751#0#PHP" expanded="true" />
+                <element signature="e#6855#6904#0#PHP" expanded="true" />
+                <element signature="e#7022#7062#0#PHP" expanded="true" />
+                <element signature="e#7166#7215#0#PHP" expanded="true" />
+                <element signature="e#7333#7373#0#PHP" expanded="true" />
+                <element signature="e#7475#7523#0#PHP" expanded="true" />
+                <element signature="e#7637#7677#0#PHP" expanded="true" />
+                <element signature="e#7779#7827#0#PHP" expanded="true" />
+                <element signature="e#7941#7981#0#PHP" expanded="true" />
+                <element signature="e#8085#8134#0#PHP" expanded="true" />
+                <element signature="e#8252#8292#0#PHP" expanded="true" />
+                <element signature="e#8394#8442#0#PHP" expanded="true" />
+                <element signature="e#8556#8596#0#PHP" expanded="true" />
+                <element signature="e#8706#8758#0#PHP" expanded="true" />
+                <element signature="e#8888#8928#0#PHP" expanded="true" />
+                <element signature="e#9026#9072#0#PHP" expanded="true" />
+                <element signature="e#9178#9218#0#PHP" expanded="true" />
+                <element signature="e#9320#9368#0#PHP" expanded="true" />
+                <element signature="e#9482#9522#0#PHP" expanded="true" />
+                <element signature="e#9630#9681#0#PHP" expanded="true" />
+                <element signature="e#9807#9847#0#PHP" expanded="true" />
+                <element signature="e#9955#10006#0#PHP" expanded="true" />
+                <element signature="e#10132#10172#0#PHP" expanded="true" />
+                <element signature="e#10274#10322#0#PHP" expanded="true" />
+                <element signature="e#10436#10476#0#PHP" expanded="true" />
+                <element signature="e#10580#10629#0#PHP" expanded="true" />
+                <element signature="e#10747#10787#0#PHP" expanded="true" />
+                <element signature="e#10899#10952#0#PHP" expanded="true" />
+                <element signature="e#11086#11126#0#PHP" expanded="true" />
+                <element signature="e#11256#11318#0#PHP" expanded="true" />
+                <element signature="e#11488#11528#0#PHP" expanded="true" />
+                <element signature="e#11658#11720#0#PHP" expanded="true" />
+                <element signature="e#11890#11930#0#PHP" expanded="true" />
+                <element signature="e#12046#12101#0#PHP" expanded="true" />
+                <element signature="e#12243#12283#0#PHP" expanded="true" />
+                <element signature="e#12399#12454#0#PHP" expanded="true" />
+                <element signature="e#12596#12636#0#PHP" expanded="true" />
+                <element signature="e#12752#12807#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="dev.log" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/var/logs/dev.log">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-52.22222">
+              <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -176,14 +204,16 @@
         <option value="$PROJECT_DIR$/web/idfile.json" />
         <option value="$PROJECT_DIR$/app/Resources/views/WeatherStationReadingList/weatherstationslist.html.twig" />
         <option value="$PROJECT_DIR$/web/idfile_with_key.json" />
-        <option value="$PROJECT_DIR$/src/AppBundle/Services/FTPClient.php" />
-        <option value="$PROJECT_DIR$/src/AppBundle/Services/WeatherEstimator.php" />
-        <option value="$PROJECT_DIR$/src/AppBundle/Controller/WeatherController.php" />
         <option value="$PROJECT_DIR$/app/config/config.yml" />
         <option value="$PROJECT_DIR$/composer.json" />
         <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/WeatherStationReadingList/weatherreading.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/js/main.js" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Services/FTPClient.php" />
+        <option value="$PROJECT_DIR$/var/logs/dev.log" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Model/StationReading.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/WeatherController.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Services/WeatherEstimator.php" />
       </list>
     </option>
   </component>
@@ -197,10 +227,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1282" />
-    <option name="y" value="-283" />
-    <option name="width" value="920" />
-    <option name="height" value="1036" />
+    <option name="x" value="1287" />
+    <option name="y" value="-294" />
+    <option name="width" value="1077" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -292,7 +322,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
+              <option name="myItemId" value="var" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -306,15 +336,87 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
+              <option name="myItemId" value="var" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
+              <option name="myItemId" value="logs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishApp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jquery" />
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Services" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FishApp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AppBundle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Model" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -347,36 +449,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FishApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="FishApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WeatherStationReadingList" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -416,6 +488,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/app_dev.php" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/Cellar/node/5.9.1/bin/node" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -488,14 +561,26 @@
       <option name="project" value="LOCAL" />
       <updated>1465821656625</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Getting correct location">
+      <created>1466343135314</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1466343135314</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Getting correct location">
+      <created>1466343505470</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1466343505470</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1282" y="-283" width="920" height="1036" extended-state="0" />
+    <frame x="1287" y="-294" width="1077" height="1040" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2164009" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21545894" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -536,7 +621,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Weather Stations listing" />
-    <option name="LAST_COMMIT_MESSAGE" value="Weather Stations listing" />
+    <MESSAGE value="Getting correct location" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getting correct location" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XDebuggerManager">
@@ -555,21 +641,68 @@
             <element signature="e#444#493#0#PHP" expanded="true" />
             <element signature="e#586#615#0#PHP" expanded="true" />
             <element signature="e#725#819#0#PHP" expanded="true" />
-            <element signature="e#1414#1559#0#PHP" expanded="true" />
-            <element signature="e#2264#2400#0#PHP" expanded="true" />
-            <element signature="e#2845#2983#0#PHP" expanded="true" />
-            <element signature="e#3758#3857#0#PHP" expanded="true" />
-            <element signature="e#4447#4564#0#PHP" expanded="true" />
-            <element signature="e#4648#4700#1#PHP" expanded="true" />
+            <element signature="e#1408#1553#0#PHP" expanded="true" />
+            <element signature="e#2252#2388#0#PHP" expanded="true" />
+            <element signature="e#2833#2971#0#PHP" expanded="true" />
+            <element signature="e#3741#3840#0#PHP" expanded="true" />
+            <element signature="e#4724#4864#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/idfile.json">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/WeatherStationReadingList/weatherreading.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="4529" column="24" selection-start-line="4529" selection-start-column="24" selection-end-line="4529" selection-end-column="24" />
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="58" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="88" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
+          <folding>
+            <element signature="e#59#105#0" expanded="true" />
+            <element signature="n#!!block;n#getLocation#0" expanded="true" />
+            <element signature="e#186#292#0" expanded="true" />
+            <element signature="n#!!block;n#getWeatherFoLocation#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Services/WeatherEstimator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="35" column="42" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+          <folding>
+            <element signature="e#169#204#0#PHP" expanded="true" />
+            <element signature="e#1621#1768#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -590,12 +723,44 @@
             <element signature="e#444#493#0#PHP" expanded="true" />
             <element signature="e#586#615#0#PHP" expanded="true" />
             <element signature="e#725#819#0#PHP" expanded="true" />
-            <element signature="e#1414#1559#0#PHP" expanded="true" />
-            <element signature="e#2264#2400#0#PHP" expanded="true" />
-            <element signature="e#2845#2983#0#PHP" expanded="true" />
-            <element signature="e#3758#3857#0#PHP" expanded="true" />
-            <element signature="e#4447#4564#0#PHP" expanded="true" />
-            <element signature="e#4648#4700#1#PHP" expanded="true" />
+            <element signature="e#1408#1553#0#PHP" expanded="true" />
+            <element signature="e#2252#2388#0#PHP" expanded="true" />
+            <element signature="e#2833#2971#0#PHP" expanded="true" />
+            <element signature="e#3741#3840#0#PHP" expanded="true" />
+            <element signature="e#4724#4864#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/idfile.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4529" column="24" selection-start-line="4529" selection-start-column="24" selection-end-line="4529" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Services/FTPClient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="118" column="38" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/WeatherController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#73#0#PHP" expanded="true" />
+            <element signature="e#444#493#0#PHP" expanded="true" />
+            <element signature="e#586#615#0#PHP" expanded="true" />
+            <element signature="e#725#819#0#PHP" expanded="true" />
+            <element signature="e#1408#1553#0#PHP" expanded="true" />
+            <element signature="e#2252#2388#0#PHP" expanded="true" />
+            <element signature="e#2833#2971#0#PHP" expanded="true" />
+            <element signature="e#3741#3840#0#PHP" expanded="true" />
+            <element signature="e#4724#4864#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -642,18 +807,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/WeatherPrediction.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-22.5">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-          <folding>
-            <element signature="e#279#319#0#PHP" expanded="false" />
-            <element signature="e#415#455#0#PHP" expanded="false" />
-            <element signature="e#559#599#0#PHP" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/var/SymfonyRequirements.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.016816143">
@@ -665,7 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.48766816">
           <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -676,27 +828,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Services/FTPClient.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-12.791667">
-          <caret line="118" column="38" selection-start-line="118" selection-start-column="38" selection-end-line="118" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AppBundle/Services/WeatherEstimator.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-18.125">
-          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/WeatherStationReadingList/list.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -704,7 +839,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.9843049">
           <caret line="118" column="36" selection-start-line="118" selection-start-column="36" selection-end-line="118" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -712,79 +846,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/components/jquery/README.md">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor vertical-scroll-proportion="0.24390244">
             <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-            <folding />
           </first_editor>
           <second_editor />
         </state>
-      </provider>
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
       </provider>
       <provider editor-type-id="MarkdownFxPreviewEditor">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/composer.json">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.083333">
-          <caret line="33" column="33" selection-start-line="33" selection-start-column="33" selection-end-line="33" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.28396437">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/idfile.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06726457">
-          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
-          <folding>
-            <element signature="e#4#241#0" expanded="false" />
-            <element signature="e#245#480#0" expanded="false" />
-            <element signature="e#484#719#0" expanded="false" />
-            <element signature="e#723#952#0" expanded="false" />
-            <element signature="e#956#1196#0" expanded="false" />
-            <element signature="e#1200#1437#0" expanded="false" />
-            <element signature="e#1441#1687#0" expanded="false" />
-            <element signature="e#1691#1917#0" expanded="false" />
-            <element signature="e#1921#2152#0" expanded="false" />
-            <element signature="e#2156#2381#0" expanded="false" />
-            <element signature="e#2385#2617#0" expanded="false" />
-            <element signature="e#2621#2854#0" expanded="false" />
-            <element signature="e#2858#3111#0" expanded="false" />
-            <element signature="e#3115#3360#0" expanded="false" />
-            <element signature="e#3364#3601#0" expanded="false" />
-            <element signature="e#3605#3847#0" expanded="false" />
-            <element signature="e#3851#4082#0" expanded="false" />
-            <element signature="e#4086#4323#0" expanded="false" />
-            <element signature="e#4327#4548#0" expanded="false" />
-            <element signature="e#4552#4787#0" expanded="false" />
-            <element signature="e#4791#5031#0" expanded="false" />
-            <element signature="e#5035#5290#0" expanded="false" />
-            <element signature="e#5294#5529#0" expanded="false" />
-            <element signature="e#5533#5786#0" expanded="false" />
-            <element signature="e#5790#6023#0" expanded="false" />
-            <element signature="e#6027#6276#0" expanded="false" />
-            <element signature="e#6280#6521#0" expanded="false" />
-            <element signature="e#6525#6762#0" expanded="false" />
-            <element signature="e#6766#6989#0" expanded="false" />
-            <element signature="e#6993#7237#0" expanded="false" />
-            <element signature="e#7241#7484#0" expanded="false" />
-            <element signature="e#7488#7739#0" expanded="false" />
-            <element signature="e#7743#7968#0" expanded="false" />
-            <element signature="e#7972#8209#0" expanded="false" />
-            <element signature="e#8213#8436#0" expanded="false" />
-            <element signature="e#8440#8687#0" expanded="false" />
-            <element signature="e#8691#8922#0" expanded="false" />
-            <element signature="e#179905#180142#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -792,70 +877,178 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="106" column="58" selection-start-line="106" selection-start-column="58" selection-end-line="106" selection-end-column="58" />
-          <folding>
-            <marker date="1466329206000" expanded="true" signature="2193:3804" placeholder="assetic:" />
-            <marker date="1466329206000" expanded="true" signature="2315:3804" placeholder="assets:" />
-            <marker date="1466329206000" expanded="true" signature="2331:2434" placeholder="jquery:" />
-            <marker date="1466329206000" expanded="true" signature="2443:2565" placeholder="bootstrap_js:" />
-            <marker date="1466329206000" expanded="true" signature="2574:2820" placeholder="bootstrap_css:" />
-            <marker date="1466329206000" expanded="true" signature="2829:3042" placeholder="bootstrap_glyphicons_ttf:" />
-            <marker date="1466329206000" expanded="true" signature="3051:3264" placeholder="bootstrap_glyphicons_eot:" />
-            <marker date="1466329206000" expanded="true" signature="3273:3486" placeholder="bootstrap_glyphicons_svg:" />
-            <marker date="1466329206000" expanded="true" signature="3495:3711" placeholder="bootstrap_glyphicons_woff:" />
-            <marker date="1466329206000" expanded="true" signature="3720:3804" placeholder="main:" />
-            <marker date="1466329206000" expanded="true" signature="3738:3804" placeholder="inputs:" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/WeatherStationReadingList/weatherreading.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.625">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.066815145">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/var/logs/dev.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-52.22222">
+          <caret line="94" column="0" selection-start-line="94" selection-start-column="0" selection-end-line="94" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/WeatherPrediction.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5011136">
+          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="88" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
+        <state vertical-scroll-proportion="0.5856833">
+          <caret line="38" column="44" selection-start-line="38" selection-start-column="44" selection-end-line="38" selection-end-column="44" />
           <folding>
-            <element signature="e#57#103#0" expanded="true" />
-            <element signature="e#184#293#0" expanded="true" />
+            <element signature="e#59#105#0" expanded="true" />
+            <element signature="n#!!block;n#getLocation#0" expanded="true" />
+            <element signature="e#186#292#0" expanded="true" />
             <element signature="n#!!block;n#getWeatherFoLocation#0" expanded="true" />
-            <element signature="n#!!block;n#handleError#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/WeatherStationReadingList/weatherreading.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Services/FTPClient.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-2.5">
-          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          <folding>
-            <element signature="e#13#29#0#Twig" expanded="false" />
-            <marker date="1466330866000" expanded="true" signature="36:211" placeholder="{% block body ...%}" />
-          </folding>
+        <state vertical-scroll-proportion="-24.291666">
+          <caret line="163" column="65" selection-start-line="161" selection-start-column="12" selection-end-line="163" selection-end-column="65" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/WeatherController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21860987">
-          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
+        <state vertical-scroll-proportion="-16.791666">
+          <caret line="168" column="52" selection-start-line="168" selection-start-column="52" selection-end-line="168" selection-end-column="52" />
           <folding>
             <element signature="e#40#73#0#PHP" expanded="true" />
             <element signature="e#444#493#0#PHP" expanded="true" />
             <element signature="e#586#615#0#PHP" expanded="true" />
             <element signature="e#725#819#0#PHP" expanded="true" />
-            <element signature="e#1414#1559#0#PHP" expanded="true" />
-            <element signature="e#2264#2400#0#PHP" expanded="true" />
-            <element signature="e#2845#2983#0#PHP" expanded="true" />
-            <element signature="e#3758#3857#0#PHP" expanded="true" />
-            <element signature="e#4447#4564#0#PHP" expanded="true" />
-            <element signature="e#4648#4700#1#PHP" expanded="true" />
+            <element signature="e#1408#1553#0#PHP" expanded="true" />
+            <element signature="e#2252#2388#0#PHP" expanded="true" />
+            <element signature="e#2833#2971#0#PHP" expanded="true" />
+            <element signature="e#3741#3840#0#PHP" expanded="true" />
+            <element signature="e#4724#4864#0#PHP" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Model/StationReading.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="e#1382#1422#0#PHP" expanded="true" />
+            <element signature="e#1520#1566#0#PHP" expanded="true" />
+            <element signature="e#1672#1712#0#PHP" expanded="true" />
+            <element signature="e#1810#1856#0#PHP" expanded="true" />
+            <element signature="e#1962#2002#0#PHP" expanded="true" />
+            <element signature="e#2094#2137#0#PHP" expanded="true" />
+            <element signature="e#2231#2271#0#PHP" expanded="true" />
+            <element signature="e#2373#2421#0#PHP" expanded="true" />
+            <element signature="e#2535#2575#0#PHP" expanded="true" />
+            <element signature="e#2681#2731#0#PHP" expanded="true" />
+            <element signature="e#2853#2893#0#PHP" expanded="true" />
+            <element signature="e#2989#3034#0#PHP" expanded="true" />
+            <element signature="e#3136#3176#0#PHP" expanded="true" />
+            <element signature="e#3280#3329#0#PHP" expanded="true" />
+            <element signature="e#3447#3487#0#PHP" expanded="true" />
+            <element signature="e#3593#3643#0#PHP" expanded="true" />
+            <element signature="e#3765#3805#0#PHP" expanded="true" />
+            <element signature="e#3929#3988#0#PHP" expanded="true" />
+            <element signature="e#4146#4186#0#PHP" expanded="true" />
+            <element signature="e#4296#4348#0#PHP" expanded="true" />
+            <element signature="e#4478#4518#0#PHP" expanded="true" />
+            <element signature="e#4620#4668#0#PHP" expanded="true" />
+            <element signature="e#4782#4822#0#PHP" expanded="true" />
+            <element signature="e#4928#4978#0#PHP" expanded="true" />
+            <element signature="e#5100#5140#0#PHP" expanded="true" />
+            <element signature="e#5250#5302#0#PHP" expanded="true" />
+            <element signature="e#5432#5472#0#PHP" expanded="true" />
+            <element signature="e#5570#5616#0#PHP" expanded="true" />
+            <element signature="e#5722#5762#0#PHP" expanded="true" />
+            <element signature="e#5864#5912#0#PHP" expanded="true" />
+            <element signature="e#6026#6066#0#PHP" expanded="true" />
+            <element signature="e#6176#6228#0#PHP" expanded="true" />
+            <element signature="e#6358#6398#0#PHP" expanded="true" />
+            <element signature="e#6514#6569#0#PHP" expanded="true" />
+            <element signature="e#6711#6751#0#PHP" expanded="true" />
+            <element signature="e#6855#6904#0#PHP" expanded="true" />
+            <element signature="e#7022#7062#0#PHP" expanded="true" />
+            <element signature="e#7166#7215#0#PHP" expanded="true" />
+            <element signature="e#7333#7373#0#PHP" expanded="true" />
+            <element signature="e#7475#7523#0#PHP" expanded="true" />
+            <element signature="e#7637#7677#0#PHP" expanded="true" />
+            <element signature="e#7779#7827#0#PHP" expanded="true" />
+            <element signature="e#7941#7981#0#PHP" expanded="true" />
+            <element signature="e#8085#8134#0#PHP" expanded="true" />
+            <element signature="e#8252#8292#0#PHP" expanded="true" />
+            <element signature="e#8394#8442#0#PHP" expanded="true" />
+            <element signature="e#8556#8596#0#PHP" expanded="true" />
+            <element signature="e#8706#8758#0#PHP" expanded="true" />
+            <element signature="e#8888#8928#0#PHP" expanded="true" />
+            <element signature="e#9026#9072#0#PHP" expanded="true" />
+            <element signature="e#9178#9218#0#PHP" expanded="true" />
+            <element signature="e#9320#9368#0#PHP" expanded="true" />
+            <element signature="e#9482#9522#0#PHP" expanded="true" />
+            <element signature="e#9630#9681#0#PHP" expanded="true" />
+            <element signature="e#9807#9847#0#PHP" expanded="true" />
+            <element signature="e#9955#10006#0#PHP" expanded="true" />
+            <element signature="e#10132#10172#0#PHP" expanded="true" />
+            <element signature="e#10274#10322#0#PHP" expanded="true" />
+            <element signature="e#10436#10476#0#PHP" expanded="true" />
+            <element signature="e#10580#10629#0#PHP" expanded="true" />
+            <element signature="e#10747#10787#0#PHP" expanded="true" />
+            <element signature="e#10899#10952#0#PHP" expanded="true" />
+            <element signature="e#11086#11126#0#PHP" expanded="true" />
+            <element signature="e#11256#11318#0#PHP" expanded="true" />
+            <element signature="e#11488#11528#0#PHP" expanded="true" />
+            <element signature="e#11658#11720#0#PHP" expanded="true" />
+            <element signature="e#11890#11930#0#PHP" expanded="true" />
+            <element signature="e#12046#12101#0#PHP" expanded="true" />
+            <element signature="e#12243#12283#0#PHP" expanded="true" />
+            <element signature="e#12399#12454#0#PHP" expanded="true" />
+            <element signature="e#12596#12636#0#PHP" expanded="true" />
+            <element signature="e#12752#12807#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Services/WeatherEstimator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.375">
+          <caret line="163" column="32" selection-start-line="163" selection-start-column="32" selection-end-line="163" selection-end-column="32" />
+          <folding>
+            <element signature="e#169#204#0#PHP" expanded="true" />
+            <element signature="e#1621#1768#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30846325">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/idfile.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="6.1993318">
+          <caret line="5710" column="3" selection-start-line="5710" selection-start-column="3" selection-end-line="5710" selection-end-column="3" />
+          <folding />
         </state>
       </provider>
     </entry>
