@@ -154,6 +154,12 @@
             return $deserialized;
         }
 
+        /**
+         * @param $stationId
+         * @param $bomId
+         *
+         * @return array
+         */
         public function readStationWeather($stationId, $bomId)
         {
             $tempFile = tempnam(sys_get_temp_dir(), 'ftp');
@@ -175,5 +181,23 @@
             unlink($tempFile);
 
             return $matched;
+        }
+
+        public function readForecastWeather($fileNameToRead)
+        {
+            $tempFile = tempnam(sys_get_temp_dir(), 'ftp');
+            ftp_get($this->connectionID, $tempFile, $fileNameToRead, FTP_BINARY);
+            $contents = file_get_contents($tempFile);
+
+            $encoders = [new XmlEncoder()];
+            $normalizer = [new ObjectNormalizer()];
+
+            $serializer = new Serializer($normalizer, $encoders);
+
+            $deserialized = $serializer->deserialize($contents, '', 'xml');
+
+            unlink($tempFile);
+
+            return $deserialized;
         }
     }

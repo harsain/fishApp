@@ -16,14 +16,20 @@
 
     class WeatherEstimator
     {
-
-
+        /**
+         * @param $idFile
+         * @param $lat
+         * @param $lon
+         *
+         * @return mixed
+         */
         public function getReadings($idFile, $lat, $lon)
         {
             $toReturn = [];
             $fileContents = file_get_contents($idFile);
             $distances = [];
             $stations = json_decode($fileContents, true);
+
             foreach ($stations as $station) {
                 $distances[] = $this->calculateDistance($lat, $lon, $station["location"]["lat"], $station["location"]["lon"]);
             }

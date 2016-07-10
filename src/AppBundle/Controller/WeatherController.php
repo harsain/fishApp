@@ -103,7 +103,6 @@ class WeatherController extends Controller
         if ($this->ftpClient->connect() ) {
             if ($this->ftpClient->changeDir('/anon/gen/fwo')) {
                 $readings = $this->ftpClient->readWeather($stationId);
-//                return JsonResponse::create($readings);
 
                 return $this->render(
                     ':WeatherStationReadingList:detail.html.twig',
@@ -144,17 +143,6 @@ class WeatherController extends Controller
         return JsonResponse::create($closestStation);
     }
 
-//    /**
-//     * @Route('/location', name="_location")
-//     * @return \Symfony\Component\HttpFoundation\Response
-//     */
-//    public function getMyLocation()
-//    {
-//        return $this->render(
-//            'WeatherStationReadingList/weatherreading.html.twig'
-//        );
-//    }
-
     /**
      * @Route("/weather/live/{latitude}/{longitude}", name="_weather")
      * @return \Symfony\Component\HttpFoundation\Response
@@ -192,5 +180,4 @@ class WeatherController extends Controller
         return JsonResponse::create(["distance" => $d]);
     }
 }
-
 ?>
