@@ -85,11 +85,11 @@ class WeatherController extends Controller
         $idfile = $this->getParameter('kernel.root_dir') . '/../web/idfile.json';
         $fileContents = file_get_contents($idfile);
 
-//        return JsonResponse::create(json_decode($fileContents, true));
-        return $this->render(
-            ':WeatherStationReadingList:weatherstationslist.html.twig',
-            ["stations" => json_decode($fileContents)]
-        );
+        return JsonResponse::create(json_decode($fileContents, true));
+//        return $this->render(
+//            ':WeatherStationReadingList:weatherstationslist.html.twig',
+//            ["stations" => json_decode($fileContents)]
+//        );
     }
 
     /**
