@@ -25,32 +25,63 @@
         {
             $this->connectionID = ftp_connect($this->ftpServer) or die("Couldn't connect to $this->ftpServer");
             return ftp_login($this->connectionID, 'anonymous', 'anonymous@domain.com');
+        }
 
-//            if (ftp_chdir($this->connectionID, '/anon/gen/fwo')) {
-//                $remotePath = "IDN10064.xml";
-//                $tempPath = tempnam(sys_get_temp_dir(), 'ftp');
-//
-//                ftp_get($this->connectionID, $tempPath, $remotePath, FTP_BINARY);
-//                $contents = file_get_contents($tempPath);
-//                $encoders = [new XmlEncoder()];
-//                $normalizer = [new ObjectNormalizer()];
-//                $serializer = new Serializer($normalizer, $encoders);
-//
-//                $deserialized = $serializer->deserialize($contents, 'AppBundle\WeatherPrediction', 'xml');
-//                unlink($tempPath);
-//                return $deserialized;
-//                echo "<pre>" .$contents . "</pre>";
-//                die();
-//                $contents = ftp_nlist($this->connectionID, ".");
-//                foreach ($contents as $file) {
-//                    echo $file . PHP_EOL;
-//                    if ($file == '.' || $file == '..') {
-//                        continue;
-//                    }
-//
-//                    ftp_get($this->connectionID, $file, $file, FTP_BINARY);
-//                }
-//            }
+        public function createStationList($dir = '.')
+        {
+            $fileList = ftp_nlist($this->connectionID, $dir);
+            $idfile = "idfile_with_key.json";
+            $fh = fopen($idfile, "w") or die("ERROR -- Unable to open the file " . $idfile);
+            $data = [];
+
+            foreach ($fileList as $file) {
+
+                if (preg_match("/^[a-zA-Z0-9]+\.xml/", $file)) {
+                    try {
+                        $tempFile = tempnam(sys_get_temp_dir(), 'ftp');
+                        ftp_get($this->connectionID, $tempFile, $file, FTP_BINARY);
+                        $contents = file_get_contents($tempFile);
+
+                        $encoders = [new XmlEncoder()];
+                        $normalizer = [new ObjectNormalizer()];
+                        $serializer = new Serializer($normalizer, $encoders);
+
+                        /** @var WeatherPrediction $deserialized */
+                        $deserialized = $serializer->deserialize($contents, 'AppBundle\WeatherPrediction', 'xml');
+
+                        unlink($tempFile);
+
+                        if (!empty($deserialized->getObservations())) {
+
+                            foreach ($deserialized->getObservations() as $stations) {
+                                foreach ($stations as $station) {
+                                    $eachData['identifier'] = $deserialized->getAmoc()['identifier'];
+                                    $eachData['forecast_district_id'] = $station['@forecast-district-id'];
+                                    $eachData['bom_id'] = $station['@bom-id'];
+                                    $eachData['stn_name'] = $station['@stn-name'];
+                                    $eachData['description'] = $station['@description'];
+                                    $eachData['timezone'] = $station['@tz'];
+                                    $eachData['location'] = [
+                                        'lat' => $station['@lat'],
+                                        'lon' => $station['@lon']
+                                    ];
+                                    $underscoreIndex = strpos($station['@forecast-district-id'], '_');
+                                    $state = substr($station['@forecast-district-id'], 0, $underscoreIndex);
+                                    $eachData['state'] = $state;
+
+                                    $data[] = $eachData;
+                                }
+                            }
+                        }
+                    } catch (\Exception $ex) {
+                        continue;
+                    }
+                }
+            }
+            fwrite($fh, json_encode($data));
+            fclose($fh);
+
+            return $data;
         }
 
         /**

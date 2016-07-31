@@ -60,7 +60,8 @@ class WeatherController extends Controller
     {
         if ($this->ftpClient->connect()) {
             if ($this->ftpClient->changeDir('/anon/gen/fwo')) {
-                $stationsList = $this->ftpClient->getWeatherStationsList('.');
+//                $stationsList = $this->ftpClient->getWeatherStationsList('.');
+                $stationsList = $this->ftpClient->createStationList('.');
 
                 return JsonResponse::create($stationsList);
 //                return $this->render(
@@ -93,6 +94,15 @@ class WeatherController extends Controller
     }
 
     /**
+     * @Route("/station/weather/detail", name="_stationweatherdetail")
+     * @param $station
+     */
+    public function getStationWeatherDetail($station)
+    {
+        var_dump($this->container->getParameter('state_forecast_mapping')); die();
+    }
+    
+    /**
      * @Route("/weather/stations/readings/{stationId}", name="_reading")
      * @param $stationId
      *
@@ -100,6 +110,7 @@ class WeatherController extends Controller
      */
     public function getWeatherStationReading($stationId)
     {
+        var_dump($this->container->getParameter('state_forecast_mapping')); die();
         if ($this->ftpClient->connect() ) {
             if ($this->ftpClient->changeDir('/anon/gen/fwo')) {
                 $readings = $this->ftpClient->readWeather($stationId);
